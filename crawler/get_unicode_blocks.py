@@ -54,6 +54,9 @@ def main():
 			block["blockStart"] = data[1].split("..")[0].strip()
 			block["blockEnd"] = data[1].split("..")[1].strip()
 
+			block["blockStartInt"] = int(block["blockStart"].lstrip("U+"), 16)
+			block["blockEndInt"] = int(block["blockEnd"].lstrip("U+"), 16)
+
 			block["blockName"] = data[2]
 			block["blockPageURL"] = tds[2].find("a")["href"]
 

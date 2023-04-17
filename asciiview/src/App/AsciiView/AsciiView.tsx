@@ -14,8 +14,8 @@ export default function AsciiView () {
 				<h2></h2>
 			</header>
 
-			<main>
-				<section className="grid gap-1 p-1 grid-cols-4 md:grid-cols-8">
+			<main className="p-1">
+				<section className="grid gap-1 grid-cols-4 md:grid-cols-8">
 					{codePoints.map(codePoint => <CodePoint key={codePoint} {...{codePoint}} />)}
 				</section>
 			</main>

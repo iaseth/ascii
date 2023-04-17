@@ -1,0 +1,5484 @@
+{
+	"unicodeBlocks": [
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0000..U+007F",
+			"blockStart": "U+0000",
+			"blockEnd": "U+007F",
+			"blockName": "Basic Latin",
+			"blockPageURL": "/wiki/Basic_Latin_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 52
+				},
+				{
+					"name": "Common",
+					"charCount": 76
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0080..U+00FF",
+			"blockStart": "U+0080",
+			"blockEnd": "U+00FF",
+			"blockName": "Latin-1 Supplement",
+			"blockPageURL": "/wiki/Latin-1_Supplement",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 64
+				},
+				{
+					"name": "Common",
+					"charCount": 64
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0100..U+017F",
+			"blockStart": "U+0100",
+			"blockEnd": "U+017F",
+			"blockName": "Latin Extended-A",
+			"blockPageURL": "/wiki/Latin_Extended-A",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 128
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0180..U+024F",
+			"blockStart": "U+0180",
+			"blockEnd": "U+024F",
+			"blockName": "Latin Extended-B",
+			"blockPageURL": "/wiki/Latin_Extended-B",
+			"codePoints": 208,
+			"assignedCharacters": 208,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 208
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0250..U+02AF",
+			"blockStart": "U+0250",
+			"blockEnd": "U+02AF",
+			"blockName": "IPA Extensions",
+			"blockPageURL": "/wiki/IPA_Extensions",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+02B0..U+02FF",
+			"blockStart": "U+02B0",
+			"blockEnd": "U+02FF",
+			"blockName": "Spacing Modifier Letters",
+			"blockPageURL": "/wiki/Spacing_Modifier_Letters",
+			"codePoints": 80,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Bopomofo",
+					"charCount": 2
+				},
+				{
+					"name": "Latin",
+					"charCount": 14
+				},
+				{
+					"name": "Common",
+					"charCount": 64
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0300..U+036F",
+			"blockStart": "U+0300",
+			"blockEnd": "U+036F",
+			"blockName": "Combining Diacritical Marks",
+			"blockPageURL": "/wiki/Combining_Diacritical_Marks",
+			"codePoints": 112,
+			"assignedCharacters": 112,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 112
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0370..U+03FF",
+			"blockStart": "U+0370",
+			"blockEnd": "U+03FF",
+			"blockName": "Greek and Coptic",
+			"blockPageURL": "/wiki/Greek_and_Coptic",
+			"codePoints": 144,
+			"assignedCharacters": 135,
+			"scripts": [
+				{
+					"name": "Coptic",
+					"charCount": 14
+				},
+				{
+					"name": "Greek",
+					"charCount": 117
+				},
+				{
+					"name": "Common",
+					"charCount": 4
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0400..U+04FF",
+			"blockStart": "U+0400",
+			"blockEnd": "U+04FF",
+			"blockName": "Cyrillic",
+			"blockPageURL": "/wiki/Cyrillic_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 254
+				},
+				{
+					"name": "Inherited",
+					"charCount": 2
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0500..U+052F",
+			"blockStart": "U+0500",
+			"blockEnd": "U+052F",
+			"blockName": "Cyrillic Supplement",
+			"blockPageURL": "/wiki/Cyrillic_Supplement",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0530..U+058F",
+			"blockStart": "U+0530",
+			"blockEnd": "U+058F",
+			"blockName": "Armenian",
+			"blockPageURL": "/wiki/Armenian_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Armenian",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0590..U+05FF",
+			"blockStart": "U+0590",
+			"blockEnd": "U+05FF",
+			"blockName": "Hebrew",
+			"blockPageURL": "/wiki/Hebrew_(Unicode_block)",
+			"codePoints": 112,
+			"assignedCharacters": 88,
+			"scripts": [
+				{
+					"name": "Hebrew",
+					"charCount": 88
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0600..U+06FF",
+			"blockStart": "U+0600",
+			"blockEnd": "U+06FF",
+			"blockName": "Arabic",
+			"blockPageURL": "/wiki/Arabic_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 238
+				},
+				{
+					"name": "Common",
+					"charCount": 6
+				},
+				{
+					"name": "Inherited",
+					"charCount": 12
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0700..U+074F",
+			"blockStart": "U+0700",
+			"blockEnd": "U+074F",
+			"blockName": "Syriac",
+			"blockPageURL": "/wiki/Syriac_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 77,
+			"scripts": [
+				{
+					"name": "Syriac",
+					"charCount": 77
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0750..U+077F",
+			"blockStart": "U+0750",
+			"blockEnd": "U+077F",
+			"blockName": "Arabic Supplement",
+			"blockPageURL": "/wiki/Arabic_Supplement",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0780..U+07BF",
+			"blockStart": "U+0780",
+			"blockEnd": "U+07BF",
+			"blockName": "Thaana",
+			"blockPageURL": "/wiki/Thaana_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 50,
+			"scripts": [
+				{
+					"name": "Thaana",
+					"charCount": 50
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+07C0..U+07FF",
+			"blockStart": "U+07C0",
+			"blockEnd": "U+07FF",
+			"blockName": "NKo",
+			"blockPageURL": "/wiki/NKo_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 62,
+			"scripts": [
+				{
+					"name": "Nko",
+					"charCount": 62
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0800..U+083F",
+			"blockStart": "U+0800",
+			"blockEnd": "U+083F",
+			"blockName": "Samaritan",
+			"blockPageURL": "/wiki/Samaritan_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 61,
+			"scripts": [
+				{
+					"name": "Samaritan",
+					"charCount": 61
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0840..U+085F",
+			"blockStart": "U+0840",
+			"blockEnd": "U+085F",
+			"blockName": "Mandaic",
+			"blockPageURL": "/wiki/Mandaic_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Mandaic",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0860..U+086F",
+			"blockStart": "U+0860",
+			"blockEnd": "U+086F",
+			"blockName": "Syriac Supplement",
+			"blockPageURL": "/wiki/Syriac_Supplement",
+			"codePoints": 16,
+			"assignedCharacters": 11,
+			"scripts": [
+				{
+					"name": "Syriac",
+					"charCount": 11
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0870..U+089F",
+			"blockStart": "U+0870",
+			"blockEnd": "U+089F",
+			"blockName": "Arabic Extended-B",
+			"blockPageURL": "/wiki/Arabic_Extended-B",
+			"codePoints": 48,
+			"assignedCharacters": 41,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 41
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+08A0..U+08FF",
+			"blockStart": "U+08A0",
+			"blockEnd": "U+08FF",
+			"blockName": "Arabic Extended-A",
+			"blockPageURL": "/wiki/Arabic_Extended-A",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 95
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0900..U+097F",
+			"blockStart": "U+0900",
+			"blockEnd": "U+097F",
+			"blockName": "Devanagari",
+			"blockPageURL": "/wiki/Devanagari_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Devanagari",
+					"charCount": 122
+				},
+				{
+					"name": "Common",
+					"charCount": 2
+				},
+				{
+					"name": "Inherited",
+					"charCount": 4
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0980..U+09FF",
+			"blockStart": "U+0980",
+			"blockEnd": "U+09FF",
+			"blockName": "Bengali",
+			"blockPageURL": "/wiki/Bengali_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Bengali",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0A00..U+0A7F",
+			"blockStart": "U+0A00",
+			"blockEnd": "U+0A7F",
+			"blockName": "Gurmukhi",
+			"blockPageURL": "/wiki/Gurmukhi_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Gurmukhi",
+					"charCount": 80
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0A80..U+0AFF",
+			"blockStart": "U+0A80",
+			"blockEnd": "U+0AFF",
+			"blockName": "Gujarati",
+			"blockPageURL": "/wiki/Gujarati_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Gujarati",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0B00..U+0B7F",
+			"blockStart": "U+0B00",
+			"blockEnd": "U+0B7F",
+			"blockName": "Oriya",
+			"blockPageURL": "/wiki/Oriya_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Oriya",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0B80..U+0BFF",
+			"blockStart": "U+0B80",
+			"blockEnd": "U+0BFF",
+			"blockName": "Tamil",
+			"blockPageURL": "/wiki/Tamil_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Tamil",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0C00..U+0C7F",
+			"blockStart": "U+0C00",
+			"blockEnd": "U+0C7F",
+			"blockName": "Telugu",
+			"blockPageURL": "/wiki/Telugu_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 100,
+			"scripts": [
+				{
+					"name": "Telugu",
+					"charCount": 100
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0C80..U+0CFF",
+			"blockStart": "U+0C80",
+			"blockEnd": "U+0CFF",
+			"blockName": "Kannada",
+			"blockPageURL": "/wiki/Kannada_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Kannada",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0D00..U+0D7F",
+			"blockStart": "U+0D00",
+			"blockEnd": "U+0D7F",
+			"blockName": "Malayalam",
+			"blockPageURL": "/wiki/Malayalam_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 118,
+			"scripts": [
+				{
+					"name": "Malayalam",
+					"charCount": 118
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0D80..U+0DFF",
+			"blockStart": "U+0D80",
+			"blockEnd": "U+0DFF",
+			"blockName": "Sinhala",
+			"blockPageURL": "/wiki/Sinhala_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Sinhala",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0E00..U+0E7F",
+			"blockStart": "U+0E00",
+			"blockEnd": "U+0E7F",
+			"blockName": "Thai",
+			"blockPageURL": "/wiki/Thai_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 87,
+			"scripts": [
+				{
+					"name": "Thai",
+					"charCount": 86
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0E80..U+0EFF",
+			"blockStart": "U+0E80",
+			"blockEnd": "U+0EFF",
+			"blockName": "Lao",
+			"blockPageURL": "/wiki/Lao_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 83,
+			"scripts": [
+				{
+					"name": "Lao",
+					"charCount": 83
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+0F00..U+0FFF",
+			"blockStart": "U+0F00",
+			"blockEnd": "U+0FFF",
+			"blockName": "Tibetan",
+			"blockPageURL": "/wiki/Tibetan_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 211,
+			"scripts": [
+				{
+					"name": "Tibetan",
+					"charCount": 207
+				},
+				{
+					"name": "Common",
+					"charCount": 4
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1000..U+109F",
+			"blockStart": "U+1000",
+			"blockEnd": "U+109F",
+			"blockName": "Myanmar",
+			"blockPageURL": "/wiki/Myanmar_(Unicode_block)",
+			"codePoints": 160,
+			"assignedCharacters": 160,
+			"scripts": [
+				{
+					"name": "Myanmar",
+					"charCount": 160
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+10A0..U+10FF",
+			"blockStart": "U+10A0",
+			"blockEnd": "U+10FF",
+			"blockName": "Georgian",
+			"blockPageURL": "/wiki/Georgian_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 88,
+			"scripts": [
+				{
+					"name": "Georgian",
+					"charCount": 87
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1100..U+11FF",
+			"blockStart": "U+1100",
+			"blockEnd": "U+11FF",
+			"blockName": "Hangul Jamo",
+			"blockPageURL": "/wiki/Hangul_Jamo_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1200..U+137F",
+			"blockStart": "U+1200",
+			"blockEnd": "U+137F",
+			"blockName": "Ethiopic",
+			"blockPageURL": "/wiki/Ethiopic_(Unicode_block)",
+			"codePoints": 384,
+			"assignedCharacters": 358,
+			"scripts": [
+				{
+					"name": "Ethiopic",
+					"charCount": 358
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1380..U+139F",
+			"blockStart": "U+1380",
+			"blockEnd": "U+139F",
+			"blockName": "Ethiopic Supplement",
+			"blockPageURL": "/wiki/Ethiopic_Supplement",
+			"codePoints": 32,
+			"assignedCharacters": 26,
+			"scripts": [
+				{
+					"name": "Ethiopic",
+					"charCount": 26
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+13A0..U+13FF",
+			"blockStart": "U+13A0",
+			"blockEnd": "U+13FF",
+			"blockName": "Cherokee",
+			"blockPageURL": "/wiki/Cherokee_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 92,
+			"scripts": [
+				{
+					"name": "Cherokee",
+					"charCount": 92
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1400..U+167F",
+			"blockStart": "U+1400",
+			"blockEnd": "U+167F",
+			"blockName": "Unified Canadian Aboriginal Syllabics",
+			"blockPageURL": "/wiki/Unified_Canadian_Aboriginal_Syllabics_(Unicode_block)",
+			"codePoints": 640,
+			"assignedCharacters": 640,
+			"scripts": [
+				{
+					"name": "Canadian Aboriginal",
+					"charCount": 640
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1680..U+169F",
+			"blockStart": "U+1680",
+			"blockEnd": "U+169F",
+			"blockName": "Ogham",
+			"blockPageURL": "/wiki/Ogham_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Ogham",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+16A0..U+16FF",
+			"blockStart": "U+16A0",
+			"blockEnd": "U+16FF",
+			"blockName": "Runic",
+			"blockPageURL": "/wiki/Runic_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 89,
+			"scripts": [
+				{
+					"name": "Runic",
+					"charCount": 86
+				},
+				{
+					"name": "Common",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1700..U+171F",
+			"blockStart": "U+1700",
+			"blockEnd": "U+171F",
+			"blockName": "Tagalog",
+			"blockPageURL": "/wiki/Tagalog_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 23,
+			"scripts": [
+				{
+					"name": "Tagalog",
+					"charCount": 23
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1720..U+173F",
+			"blockStart": "U+1720",
+			"blockEnd": "U+173F",
+			"blockName": "Hanunoo",
+			"blockPageURL": "/wiki/Hanunoo_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 23,
+			"scripts": [
+				{
+					"name": "Hanunoo",
+					"charCount": 21
+				},
+				{
+					"name": "Common",
+					"charCount": 2
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1740..U+175F",
+			"blockStart": "U+1740",
+			"blockEnd": "U+175F",
+			"blockName": "Buhid",
+			"blockPageURL": "/wiki/Buhid_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 20,
+			"scripts": [
+				{
+					"name": "Buhid",
+					"charCount": 20
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1760..U+177F",
+			"blockStart": "U+1760",
+			"blockEnd": "U+177F",
+			"blockName": "Tagbanwa",
+			"blockPageURL": "/wiki/Tagbanwa_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 18,
+			"scripts": [
+				{
+					"name": "Tagbanwa",
+					"charCount": 18
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1780..U+17FF",
+			"blockStart": "U+1780",
+			"blockEnd": "U+17FF",
+			"blockName": "Khmer",
+			"blockPageURL": "/wiki/Khmer_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 114,
+			"scripts": [
+				{
+					"name": "Khmer",
+					"charCount": 114
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1800..U+18AF",
+			"blockStart": "U+1800",
+			"blockEnd": "U+18AF",
+			"blockName": "Mongolian",
+			"blockPageURL": "/wiki/Mongolian_(Unicode_block)",
+			"codePoints": 176,
+			"assignedCharacters": 158,
+			"scripts": [
+				{
+					"name": "Mongolian",
+					"charCount": 155
+				},
+				{
+					"name": "Common",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+18B0..U+18FF",
+			"blockStart": "U+18B0",
+			"blockEnd": "U+18FF",
+			"blockName": "Unified Canadian Aboriginal Syllabics Extended",
+			"blockPageURL": "/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended",
+			"codePoints": 80,
+			"assignedCharacters": 70,
+			"scripts": [
+				{
+					"name": "Canadian Aboriginal",
+					"charCount": 70
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1900..U+194F",
+			"blockStart": "U+1900",
+			"blockEnd": "U+194F",
+			"blockName": "Limbu",
+			"blockPageURL": "/wiki/Limbu_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Limbu",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1950..U+197F",
+			"blockStart": "U+1950",
+			"blockEnd": "U+197F",
+			"blockName": "Tai Le",
+			"blockPageURL": "/wiki/Tai_Le_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 35,
+			"scripts": [
+				{
+					"name": "Tai Le",
+					"charCount": 35
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1980..U+19DF",
+			"blockStart": "U+1980",
+			"blockEnd": "U+19DF",
+			"blockName": "New Tai Lue",
+			"blockPageURL": "/wiki/New_Tai_Lue_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 83,
+			"scripts": [
+				{
+					"name": "New Tai Lue",
+					"charCount": 83
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+19E0..U+19FF",
+			"blockStart": "U+19E0",
+			"blockEnd": "U+19FF",
+			"blockName": "Khmer Symbols",
+			"blockPageURL": "/wiki/Khmer_Symbols",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Khmer",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1A00..U+1A1F",
+			"blockStart": "U+1A00",
+			"blockEnd": "U+1A1F",
+			"blockName": "Buginese",
+			"blockPageURL": "/wiki/Buginese_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 30,
+			"scripts": [
+				{
+					"name": "Buginese",
+					"charCount": 30
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1A20..U+1AAF",
+			"blockStart": "U+1A20",
+			"blockEnd": "U+1AAF",
+			"blockName": "Tai Tham",
+			"blockPageURL": "/wiki/Tai_Tham_(Unicode_block)",
+			"codePoints": 144,
+			"assignedCharacters": 127,
+			"scripts": [
+				{
+					"name": "Tai Tham",
+					"charCount": 127
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1AB0..U+1AFF",
+			"blockStart": "U+1AB0",
+			"blockEnd": "U+1AFF",
+			"blockName": "Combining Diacritical Marks Extended",
+			"blockPageURL": "/wiki/Combining_Diacritical_Marks_Extended",
+			"codePoints": 80,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1B00..U+1B7F",
+			"blockStart": "U+1B00",
+			"blockEnd": "U+1B7F",
+			"blockName": "Balinese",
+			"blockPageURL": "/wiki/Balinese_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 124,
+			"scripts": [
+				{
+					"name": "Balinese",
+					"charCount": 124
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1B80..U+1BBF",
+			"blockStart": "U+1B80",
+			"blockEnd": "U+1BBF",
+			"blockName": "Sundanese",
+			"blockPageURL": "/wiki/Sundanese_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Sundanese",
+					"charCount": 64
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1BC0..U+1BFF",
+			"blockStart": "U+1BC0",
+			"blockEnd": "U+1BFF",
+			"blockName": "Batak",
+			"blockPageURL": "/wiki/Batak_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 56,
+			"scripts": [
+				{
+					"name": "Batak",
+					"charCount": 56
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1C00..U+1C4F",
+			"blockStart": "U+1C00",
+			"blockEnd": "U+1C4F",
+			"blockName": "Lepcha",
+			"blockPageURL": "/wiki/Lepcha_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 74,
+			"scripts": [
+				{
+					"name": "Lepcha",
+					"charCount": 74
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1C50..U+1C7F",
+			"blockStart": "U+1C50",
+			"blockEnd": "U+1C7F",
+			"blockName": "Ol Chiki",
+			"blockPageURL": "/wiki/Ol_Chiki_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Ol Chiki",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1C80..U+1C8F",
+			"blockStart": "U+1C80",
+			"blockEnd": "U+1C8F",
+			"blockName": "Cyrillic Extended-C",
+			"blockPageURL": "/wiki/Cyrillic_Extended-C",
+			"codePoints": 16,
+			"assignedCharacters": 9,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 9
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1C90..U+1CBF",
+			"blockStart": "U+1C90",
+			"blockEnd": "U+1CBF",
+			"blockName": "Georgian Extended",
+			"blockPageURL": "/wiki/Georgian_Extended",
+			"codePoints": 48,
+			"assignedCharacters": 46,
+			"scripts": [
+				{
+					"name": "Georgian",
+					"charCount": 46
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1CC0..U+1CCF",
+			"blockStart": "U+1CC0",
+			"blockEnd": "U+1CCF",
+			"blockName": "Sundanese Supplement",
+			"blockPageURL": "/wiki/Sundanese_Supplement",
+			"codePoints": 16,
+			"assignedCharacters": 8,
+			"scripts": [
+				{
+					"name": "Sundanese",
+					"charCount": 8
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1CD0..U+1CFF",
+			"blockStart": "U+1CD0",
+			"blockEnd": "U+1CFF",
+			"blockName": "Vedic Extensions",
+			"blockPageURL": "/wiki/Vedic_Extensions",
+			"codePoints": 48,
+			"assignedCharacters": 43,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 16
+				},
+				{
+					"name": "Inherited",
+					"charCount": 27
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1D00..U+1D7F",
+			"blockStart": "U+1D00",
+			"blockEnd": "U+1D7F",
+			"blockName": "Phonetic Extensions",
+			"blockPageURL": "/wiki/Phonetic_Extensions",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 2
+				},
+				{
+					"name": "Greek",
+					"charCount": 15
+				},
+				{
+					"name": "Latin",
+					"charCount": 111
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1D80..U+1DBF",
+			"blockStart": "U+1D80",
+			"blockEnd": "U+1DBF",
+			"blockName": "Phonetic Extensions Supplement",
+			"blockPageURL": "/wiki/Phonetic_Extensions_Supplement",
+			"codePoints": 64,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 1
+				},
+				{
+					"name": "Latin",
+					"charCount": 63
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1DC0..U+1DFF",
+			"blockStart": "U+1DC0",
+			"blockEnd": "U+1DFF",
+			"blockName": "Combining Diacritical Marks Supplement",
+			"blockPageURL": "/wiki/Combining_Diacritical_Marks_Supplement",
+			"codePoints": 64,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 64
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1E00..U+1EFF",
+			"blockStart": "U+1E00",
+			"blockEnd": "U+1EFF",
+			"blockName": "Latin Extended Additional",
+			"blockPageURL": "/wiki/Latin_Extended_Additional",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+1F00..U+1FFF",
+			"blockStart": "U+1F00",
+			"blockEnd": "U+1FFF",
+			"blockName": "Greek Extended",
+			"blockPageURL": "/wiki/Greek_Extended",
+			"codePoints": 256,
+			"assignedCharacters": 233,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 233
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2000..U+206F",
+			"blockStart": "U+2000",
+			"blockEnd": "U+206F",
+			"blockName": "General Punctuation",
+			"blockPageURL": "/wiki/General_Punctuation",
+			"codePoints": 112,
+			"assignedCharacters": 111,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 109
+				},
+				{
+					"name": "Inherited",
+					"charCount": 2
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2070..U+209F",
+			"blockStart": "U+2070",
+			"blockEnd": "U+209F",
+			"blockName": "Superscripts and Subscripts",
+			"blockPageURL": "/wiki/Superscripts_and_Subscripts_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 42,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 15
+				},
+				{
+					"name": "Common",
+					"charCount": 27
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+20A0..U+20CF",
+			"blockStart": "U+20A0",
+			"blockEnd": "U+20CF",
+			"blockName": "Currency Symbols",
+			"blockPageURL": "/wiki/Currency_Symbols_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 33,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 33
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+20D0..U+20FF",
+			"blockStart": "U+20D0",
+			"blockEnd": "U+20FF",
+			"blockName": "Combining Diacritical Marks for Symbols",
+			"blockPageURL": "/wiki/Combining_Diacritical_Marks_for_Symbols",
+			"codePoints": 48,
+			"assignedCharacters": 33,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 33
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2100..U+214F",
+			"blockStart": "U+2100",
+			"blockEnd": "U+214F",
+			"blockName": "Letterlike Symbols",
+			"blockPageURL": "/wiki/Letterlike_Symbols",
+			"codePoints": 80,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 1
+				},
+				{
+					"name": "Latin",
+					"charCount": 4
+				},
+				{
+					"name": "Common",
+					"charCount": 75
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2150..U+218F",
+			"blockStart": "U+2150",
+			"blockEnd": "U+218F",
+			"blockName": "Number Forms",
+			"blockPageURL": "/wiki/Number_Forms",
+			"codePoints": 64,
+			"assignedCharacters": 60,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 41
+				},
+				{
+					"name": "Common",
+					"charCount": 19
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2190..U+21FF",
+			"blockStart": "U+2190",
+			"blockEnd": "U+21FF",
+			"blockName": "Arrows",
+			"blockPageURL": "/wiki/Arrows_(Unicode_block)",
+			"codePoints": 112,
+			"assignedCharacters": 112,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 112
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2200..U+22FF",
+			"blockStart": "U+2200",
+			"blockEnd": "U+22FF",
+			"blockName": "Mathematical Operators",
+			"blockPageURL": "/wiki/Mathematical_Operators_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2300..U+23FF",
+			"blockStart": "U+2300",
+			"blockEnd": "U+23FF",
+			"blockName": "Miscellaneous Technical",
+			"blockPageURL": "/wiki/Miscellaneous_Technical",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2400..U+243F",
+			"blockStart": "U+2400",
+			"blockEnd": "U+243F",
+			"blockName": "Control Pictures",
+			"blockPageURL": "/wiki/Control_Pictures",
+			"codePoints": 64,
+			"assignedCharacters": 39,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 39
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2440..U+245F",
+			"blockStart": "U+2440",
+			"blockEnd": "U+245F",
+			"blockName": "Optical Character Recognition",
+			"blockPageURL": "/wiki/Optical_Character_Recognition_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 11,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 11
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2460..U+24FF",
+			"blockStart": "U+2460",
+			"blockEnd": "U+24FF",
+			"blockName": "Enclosed Alphanumerics",
+			"blockPageURL": "/wiki/Enclosed_Alphanumerics",
+			"codePoints": 160,
+			"assignedCharacters": 160,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 160
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2500..U+257F",
+			"blockStart": "U+2500",
+			"blockEnd": "U+257F",
+			"blockName": "Box Drawing",
+			"blockPageURL": "/wiki/Box_Drawing",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 128
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2580..U+259F",
+			"blockStart": "U+2580",
+			"blockEnd": "U+259F",
+			"blockName": "Block Elements",
+			"blockPageURL": "/wiki/Block_Elements",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+25A0..U+25FF",
+			"blockStart": "U+25A0",
+			"blockEnd": "U+25FF",
+			"blockName": "Geometric Shapes",
+			"blockPageURL": "/wiki/Geometric_Shapes_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2600..U+26FF",
+			"blockStart": "U+2600",
+			"blockEnd": "U+26FF",
+			"blockName": "Miscellaneous Symbols",
+			"blockPageURL": "/wiki/Miscellaneous_Symbols",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2700..U+27BF",
+			"blockStart": "U+2700",
+			"blockEnd": "U+27BF",
+			"blockName": "Dingbats",
+			"blockPageURL": "/wiki/Dingbats_(Unicode_block)",
+			"codePoints": 192,
+			"assignedCharacters": 192,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 192
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+27C0..U+27EF",
+			"blockStart": "U+27C0",
+			"blockEnd": "U+27EF",
+			"blockName": "Miscellaneous Mathematical Symbols-A",
+			"blockPageURL": "/wiki/Miscellaneous_Mathematical_Symbols-A",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+27F0..U+27FF",
+			"blockStart": "U+27F0",
+			"blockEnd": "U+27FF",
+			"blockName": "Supplemental Arrows-A",
+			"blockPageURL": "/wiki/Supplemental_Arrows-A",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 16
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2800..U+28FF",
+			"blockStart": "U+2800",
+			"blockEnd": "U+28FF",
+			"blockName": "Braille Patterns",
+			"blockPageURL": "/wiki/Braille_Patterns",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Braille",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2900..U+297F",
+			"blockStart": "U+2900",
+			"blockEnd": "U+297F",
+			"blockName": "Supplemental Arrows-B",
+			"blockPageURL": "/wiki/Supplemental_Arrows-B",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 128
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2980..U+29FF",
+			"blockStart": "U+2980",
+			"blockEnd": "U+29FF",
+			"blockName": "Miscellaneous Mathematical Symbols-B",
+			"blockPageURL": "/wiki/Miscellaneous_Mathematical_Symbols-B",
+			"codePoints": 128,
+			"assignedCharacters": 128,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 128
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2A00..U+2AFF",
+			"blockStart": "U+2A00",
+			"blockEnd": "U+2AFF",
+			"blockName": "Supplemental Mathematical Operators",
+			"blockPageURL": "/wiki/Supplemental_Mathematical_Operators",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2B00..U+2BFF",
+			"blockStart": "U+2B00",
+			"blockEnd": "U+2BFF",
+			"blockName": "Miscellaneous Symbols and Arrows",
+			"blockPageURL": "/wiki/Miscellaneous_Symbols_and_Arrows",
+			"codePoints": 256,
+			"assignedCharacters": 253,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 253
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2C00..U+2C5F",
+			"blockStart": "U+2C00",
+			"blockEnd": "U+2C5F",
+			"blockName": "Glagolitic",
+			"blockPageURL": "/wiki/Glagolitic_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Glagolitic",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2C60..U+2C7F",
+			"blockStart": "U+2C60",
+			"blockEnd": "U+2C7F",
+			"blockName": "Latin Extended-C",
+			"blockPageURL": "/wiki/Latin_Extended-C",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2C80..U+2CFF",
+			"blockStart": "U+2C80",
+			"blockEnd": "U+2CFF",
+			"blockName": "Coptic",
+			"blockPageURL": "/wiki/Coptic_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 123,
+			"scripts": [
+				{
+					"name": "Coptic",
+					"charCount": 123
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2D00..U+2D2F",
+			"blockStart": "U+2D00",
+			"blockEnd": "U+2D2F",
+			"blockName": "Georgian Supplement",
+			"blockPageURL": "/wiki/Georgian_Supplement",
+			"codePoints": 48,
+			"assignedCharacters": 40,
+			"scripts": [
+				{
+					"name": "Georgian",
+					"charCount": 40
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2D30..U+2D7F",
+			"blockStart": "U+2D30",
+			"blockEnd": "U+2D7F",
+			"blockName": "Tifinagh",
+			"blockPageURL": "/wiki/Tifinagh_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 59,
+			"scripts": [
+				{
+					"name": "Tifinagh",
+					"charCount": 59
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2D80..U+2DDF",
+			"blockStart": "U+2D80",
+			"blockEnd": "U+2DDF",
+			"blockName": "Ethiopic Extended",
+			"blockPageURL": "/wiki/Ethiopic_Extended",
+			"codePoints": 96,
+			"assignedCharacters": 79,
+			"scripts": [
+				{
+					"name": "Ethiopic",
+					"charCount": 79
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2DE0..U+2DFF",
+			"blockStart": "U+2DE0",
+			"blockEnd": "U+2DFF",
+			"blockName": "Cyrillic Extended-A",
+			"blockPageURL": "/wiki/Cyrillic_Extended-A",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2E00..U+2E7F",
+			"blockStart": "U+2E00",
+			"blockEnd": "U+2E7F",
+			"blockName": "Supplemental Punctuation",
+			"blockPageURL": "/wiki/Supplemental_Punctuation",
+			"codePoints": 128,
+			"assignedCharacters": 94,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 94
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2E80..U+2EFF",
+			"blockStart": "U+2E80",
+			"blockEnd": "U+2EFF",
+			"blockName": "CJK Radicals Supplement",
+			"blockPageURL": "/wiki/CJK_Radicals_Supplement",
+			"codePoints": 128,
+			"assignedCharacters": 115,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 115
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2F00..U+2FDF",
+			"blockStart": "U+2F00",
+			"blockEnd": "U+2FDF",
+			"blockName": "Kangxi Radicals",
+			"blockPageURL": "/wiki/Kangxi_Radicals_(Unicode_block)",
+			"codePoints": 224,
+			"assignedCharacters": 214,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 214
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+2FF0..U+2FFF",
+			"blockStart": "U+2FF0",
+			"blockEnd": "U+2FFF",
+			"blockName": "Ideographic Description Characters",
+			"blockPageURL": "/wiki/Ideographic_Description_Characters_(Unicode_block)",
+			"codePoints": 16,
+			"assignedCharacters": 12,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 12
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3000..U+303F",
+			"blockStart": "U+3000",
+			"blockEnd": "U+303F",
+			"blockName": "CJK Symbols and Punctuation",
+			"blockPageURL": "/wiki/CJK_Symbols_and_Punctuation",
+			"codePoints": 64,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 15
+				},
+				{
+					"name": "Hangul",
+					"charCount": 2
+				},
+				{
+					"name": "Common",
+					"charCount": 43
+				},
+				{
+					"name": "Inherited",
+					"charCount": 4
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3040..U+309F",
+			"blockStart": "U+3040",
+			"blockEnd": "U+309F",
+			"blockName": "Hiragana",
+			"blockPageURL": "/wiki/Hiragana_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 93,
+			"scripts": [
+				{
+					"name": "Hiragana",
+					"charCount": 89
+				},
+				{
+					"name": "Common",
+					"charCount": 2
+				},
+				{
+					"name": "Inherited",
+					"charCount": 2
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+30A0..U+30FF",
+			"blockStart": "U+30A0",
+			"blockEnd": "U+30FF",
+			"blockName": "Katakana",
+			"blockPageURL": "/wiki/Katakana_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Katakana",
+					"charCount": 93
+				},
+				{
+					"name": "Common",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3100..U+312F",
+			"blockStart": "U+3100",
+			"blockEnd": "U+312F",
+			"blockName": "Bopomofo",
+			"blockPageURL": "/wiki/Bopomofo_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 43,
+			"scripts": [
+				{
+					"name": "Bopomofo",
+					"charCount": 43
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3130..U+318F",
+			"blockStart": "U+3130",
+			"blockEnd": "U+318F",
+			"blockName": "Hangul Compatibility Jamo",
+			"blockPageURL": "/wiki/Hangul_Compatibility_Jamo",
+			"codePoints": 96,
+			"assignedCharacters": 94,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 94
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3190..U+319F",
+			"blockStart": "U+3190",
+			"blockEnd": "U+319F",
+			"blockName": "Kanbun",
+			"blockPageURL": "/wiki/Kanbun_(Unicode_block)",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 16
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+31A0..U+31BF",
+			"blockStart": "U+31A0",
+			"blockEnd": "U+31BF",
+			"blockName": "Bopomofo Extended",
+			"blockPageURL": "/wiki/Bopomofo_Extended",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Bopomofo",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+31C0..U+31EF",
+			"blockStart": "U+31C0",
+			"blockEnd": "U+31EF",
+			"blockName": "CJK Strokes",
+			"blockPageURL": "/wiki/CJK_Strokes_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 36,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 36
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+31F0..U+31FF",
+			"blockStart": "U+31F0",
+			"blockEnd": "U+31FF",
+			"blockName": "Katakana Phonetic Extensions",
+			"blockPageURL": "/wiki/Katakana_Phonetic_Extensions",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Katakana",
+					"charCount": 16
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3200..U+32FF",
+			"blockStart": "U+3200",
+			"blockEnd": "U+32FF",
+			"blockName": "Enclosed CJK Letters and Months",
+			"blockPageURL": "/wiki/Enclosed_CJK_Letters_and_Months",
+			"codePoints": 256,
+			"assignedCharacters": 255,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 62
+				},
+				{
+					"name": "Katakana",
+					"charCount": 47
+				},
+				{
+					"name": "Common",
+					"charCount": 146
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3300..U+33FF",
+			"blockStart": "U+3300",
+			"blockEnd": "U+33FF",
+			"blockName": "CJK Compatibility",
+			"blockPageURL": "/wiki/CJK_Compatibility",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Katakana",
+					"charCount": 88
+				},
+				{
+					"name": "Common",
+					"charCount": 168
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+3400..U+4DBF",
+			"blockStart": "U+3400",
+			"blockEnd": "U+4DBF",
+			"blockName": "CJK Unified Ideographs Extension A",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_A",
+			"codePoints": 6592,
+			"assignedCharacters": 6592,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 6592
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+4DC0..U+4DFF",
+			"blockStart": "U+4DC0",
+			"blockEnd": "U+4DFF",
+			"blockName": "Yijing Hexagram Symbols",
+			"blockPageURL": "/wiki/Yijing_Hexagram_Symbols_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 64
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+4E00..U+9FFF",
+			"blockStart": "U+4E00",
+			"blockEnd": "U+9FFF",
+			"blockName": "CJK Unified Ideographs",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_(Unicode_block)",
+			"codePoints": 20992,
+			"assignedCharacters": 20992,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 20992
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A000..U+A48F",
+			"blockStart": "U+A000",
+			"blockEnd": "U+A48F",
+			"blockName": "Yi Syllables",
+			"blockPageURL": "/wiki/Yi_Syllables",
+			"codePoints": 1168,
+			"assignedCharacters": 1165,
+			"scripts": [
+				{
+					"name": "Yi",
+					"charCount": 1165
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A490..U+A4CF",
+			"blockStart": "U+A490",
+			"blockEnd": "U+A4CF",
+			"blockName": "Yi Radicals",
+			"blockPageURL": "/wiki/Yi_Radicals",
+			"codePoints": 64,
+			"assignedCharacters": 55,
+			"scripts": [
+				{
+					"name": "Yi",
+					"charCount": 55
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A4D0..U+A4FF",
+			"blockStart": "U+A4D0",
+			"blockEnd": "U+A4FF",
+			"blockName": "Lisu",
+			"blockPageURL": "/wiki/Lisu_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Lisu",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A500..U+A63F",
+			"blockStart": "U+A500",
+			"blockEnd": "U+A63F",
+			"blockName": "Vai",
+			"blockPageURL": "/wiki/Vai_(Unicode_block)",
+			"codePoints": 320,
+			"assignedCharacters": 300,
+			"scripts": [
+				{
+					"name": "Vai",
+					"charCount": 300
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A640..U+A69F",
+			"blockStart": "U+A640",
+			"blockEnd": "U+A69F",
+			"blockName": "Cyrillic Extended-B",
+			"blockPageURL": "/wiki/Cyrillic_Extended-B",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A6A0..U+A6FF",
+			"blockStart": "U+A6A0",
+			"blockEnd": "U+A6FF",
+			"blockName": "Bamum",
+			"blockPageURL": "/wiki/Bamum_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 88,
+			"scripts": [
+				{
+					"name": "Bamum",
+					"charCount": 88
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A700..U+A71F",
+			"blockStart": "U+A700",
+			"blockEnd": "U+A71F",
+			"blockName": "Modifier Tone Letters",
+			"blockPageURL": "/wiki/Modifier_Tone_Letters",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A720..U+A7FF",
+			"blockStart": "U+A720",
+			"blockEnd": "U+A7FF",
+			"blockName": "Latin Extended-D",
+			"blockPageURL": "/wiki/Latin_Extended-D",
+			"codePoints": 224,
+			"assignedCharacters": 193,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 188
+				},
+				{
+					"name": "Common",
+					"charCount": 5
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A800..U+A82F",
+			"blockStart": "U+A800",
+			"blockEnd": "U+A82F",
+			"blockName": "Syloti Nagri",
+			"blockPageURL": "/wiki/Syloti_Nagri_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 45,
+			"scripts": [
+				{
+					"name": "Syloti Nagri",
+					"charCount": 45
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A830..U+A83F",
+			"blockStart": "U+A830",
+			"blockEnd": "U+A83F",
+			"blockName": "Common Indic Number Forms",
+			"blockPageURL": "/wiki/Common_Indic_Number_Forms",
+			"codePoints": 16,
+			"assignedCharacters": 10,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 10
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A840..U+A87F",
+			"blockStart": "U+A840",
+			"blockEnd": "U+A87F",
+			"blockName": "Phags-pa",
+			"blockPageURL": "/wiki/Phags-pa_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 56,
+			"scripts": [
+				{
+					"name": "Phags Pa",
+					"charCount": 56
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A880..U+A8DF",
+			"blockStart": "U+A880",
+			"blockEnd": "U+A8DF",
+			"blockName": "Saurashtra",
+			"blockPageURL": "/wiki/Saurashtra_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 82,
+			"scripts": [
+				{
+					"name": "Saurashtra",
+					"charCount": 82
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A8E0..U+A8FF",
+			"blockStart": "U+A8E0",
+			"blockEnd": "U+A8FF",
+			"blockName": "Devanagari Extended",
+			"blockPageURL": "/wiki/Devanagari_Extended",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Devanagari",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A900..U+A92F",
+			"blockStart": "U+A900",
+			"blockEnd": "U+A92F",
+			"blockName": "Kayah Li",
+			"blockPageURL": "/wiki/Kayah_Li_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Kayah Li",
+					"charCount": 47
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A930..U+A95F",
+			"blockStart": "U+A930",
+			"blockEnd": "U+A95F",
+			"blockName": "Rejang",
+			"blockPageURL": "/wiki/Rejang_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 37,
+			"scripts": [
+				{
+					"name": "Rejang",
+					"charCount": 37
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A960..U+A97F",
+			"blockStart": "U+A960",
+			"blockEnd": "U+A97F",
+			"blockName": "Hangul Jamo Extended-A",
+			"blockPageURL": "/wiki/Hangul_Jamo_Extended-A",
+			"codePoints": 32,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A980..U+A9DF",
+			"blockStart": "U+A980",
+			"blockEnd": "U+A9DF",
+			"blockName": "Javanese",
+			"blockPageURL": "/wiki/Javanese_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Javanese",
+					"charCount": 90
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+A9E0..U+A9FF",
+			"blockStart": "U+A9E0",
+			"blockEnd": "U+A9FF",
+			"blockName": "Myanmar Extended-B",
+			"blockPageURL": "/wiki/Myanmar_Extended-B",
+			"codePoints": 32,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Myanmar",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AA00..U+AA5F",
+			"blockStart": "U+AA00",
+			"blockEnd": "U+AA5F",
+			"blockName": "Cham",
+			"blockPageURL": "/wiki/Cham_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 83,
+			"scripts": [
+				{
+					"name": "Cham",
+					"charCount": 83
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AA60..U+AA7F",
+			"blockStart": "U+AA60",
+			"blockEnd": "U+AA7F",
+			"blockName": "Myanmar Extended-A",
+			"blockPageURL": "/wiki/Myanmar_Extended-A",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Myanmar",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AA80..U+AADF",
+			"blockStart": "U+AA80",
+			"blockEnd": "U+AADF",
+			"blockName": "Tai Viet",
+			"blockPageURL": "/wiki/Tai_Viet_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Tai Viet",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AAE0..U+AAFF",
+			"blockStart": "U+AAE0",
+			"blockEnd": "U+AAFF",
+			"blockName": "Meetei Mayek Extensions",
+			"blockPageURL": "/wiki/Meetei_Mayek_Extensions",
+			"codePoints": 32,
+			"assignedCharacters": 23,
+			"scripts": [
+				{
+					"name": "Meetei Mayek",
+					"charCount": 23
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AB00..U+AB2F",
+			"blockStart": "U+AB00",
+			"blockEnd": "U+AB2F",
+			"blockName": "Ethiopic Extended-A",
+			"blockPageURL": "/wiki/Ethiopic_Extended-A",
+			"codePoints": 48,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Ethiopic",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AB30..U+AB6F",
+			"blockStart": "U+AB30",
+			"blockEnd": "U+AB6F",
+			"blockName": "Latin Extended-E",
+			"blockPageURL": "/wiki/Latin_Extended-E",
+			"codePoints": 64,
+			"assignedCharacters": 60,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 56
+				},
+				{
+					"name": "Greek",
+					"charCount": 1
+				},
+				{
+					"name": "Common",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AB70..U+ABBF",
+			"blockStart": "U+AB70",
+			"blockEnd": "U+ABBF",
+			"blockName": "Cherokee Supplement",
+			"blockPageURL": "/wiki/Cherokee_Supplement",
+			"codePoints": 80,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Cherokee",
+					"charCount": 80
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+ABC0..U+ABFF",
+			"blockStart": "U+ABC0",
+			"blockEnd": "U+ABFF",
+			"blockName": "Meetei Mayek",
+			"blockPageURL": "/wiki/Meetei_Mayek_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 56,
+			"scripts": [
+				{
+					"name": "Meetei Mayek",
+					"charCount": 56
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+AC00..U+D7AF",
+			"blockStart": "U+AC00",
+			"blockEnd": "U+D7AF",
+			"blockName": "Hangul Syllables",
+			"blockPageURL": "/wiki/Hangul_Syllables",
+			"codePoints": 11184,
+			"assignedCharacters": 11172,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 11172
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+D7B0..U+D7FF",
+			"blockStart": "U+D7B0",
+			"blockEnd": "U+D7FF",
+			"blockName": "Hangul Jamo Extended-B",
+			"blockPageURL": "/wiki/Hangul_Jamo_Extended-B",
+			"codePoints": 80,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+D800..U+DB7F",
+			"blockStart": "U+D800",
+			"blockEnd": "U+DB7F",
+			"blockName": "High Surrogates",
+			"blockPageURL": "/wiki/Universal_Character_Set_characters#Surrogates",
+			"codePoints": 896,
+			"assignedCharacters": 0,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 0
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+DB80..U+DBFF",
+			"blockStart": "U+DB80",
+			"blockEnd": "U+DBFF",
+			"blockName": "High Private Use Surrogates",
+			"blockPageURL": "/wiki/Universal_Character_Set_characters#Surrogates",
+			"codePoints": 128,
+			"assignedCharacters": 0,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 0
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+DC00..U+DFFF",
+			"blockStart": "U+DC00",
+			"blockEnd": "U+DFFF",
+			"blockName": "Low Surrogates",
+			"blockPageURL": "/wiki/Universal_Character_Set_characters#Surrogates",
+			"codePoints": 1024,
+			"assignedCharacters": 0,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 0
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+E000..U+F8FF",
+			"blockStart": "U+E000",
+			"blockEnd": "U+F8FF",
+			"blockName": "Private Use Area",
+			"blockPageURL": "/wiki/Private_Use_Areas",
+			"codePoints": 6400,
+			"assignedCharacters": 6400,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 6400
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+F900..U+FAFF",
+			"blockStart": "U+F900",
+			"blockEnd": "U+FAFF",
+			"blockName": "CJK Compatibility Ideographs",
+			"blockPageURL": "/wiki/CJK_Compatibility_Ideographs",
+			"codePoints": 512,
+			"assignedCharacters": 472,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 472
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FB00..U+FB4F",
+			"blockStart": "U+FB00",
+			"blockEnd": "U+FB4F",
+			"blockName": "Alphabetic Presentation Forms",
+			"blockPageURL": "/wiki/Alphabetic_Presentation_Forms",
+			"codePoints": 80,
+			"assignedCharacters": 58,
+			"scripts": [
+				{
+					"name": "Armenian",
+					"charCount": 5
+				},
+				{
+					"name": "Hebrew",
+					"charCount": 46
+				},
+				{
+					"name": "Latin",
+					"charCount": 7
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FB50..U+FDFF",
+			"blockStart": "U+FB50",
+			"blockEnd": "U+FDFF",
+			"blockName": "Arabic Presentation Forms-A",
+			"blockPageURL": "/wiki/Arabic_Presentation_Forms-A",
+			"codePoints": 688,
+			"assignedCharacters": 631,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 629
+				},
+				{
+					"name": "Common",
+					"charCount": 2
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE00..U+FE0F",
+			"blockStart": "U+FE00",
+			"blockEnd": "U+FE0F",
+			"blockName": "Variation Selectors",
+			"blockPageURL": "/wiki/Variation_Selectors_(Unicode_block)",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 16
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE10..U+FE1F",
+			"blockStart": "U+FE10",
+			"blockEnd": "U+FE1F",
+			"blockName": "Vertical Forms",
+			"blockPageURL": "/wiki/Vertical_Forms",
+			"codePoints": 16,
+			"assignedCharacters": 10,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 10
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE20..U+FE2F",
+			"blockStart": "U+FE20",
+			"blockEnd": "U+FE2F",
+			"blockName": "Combining Half Marks",
+			"blockPageURL": "/wiki/Combining_Half_Marks",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 2
+				},
+				{
+					"name": "Inherited",
+					"charCount": 14
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE30..U+FE4F",
+			"blockStart": "U+FE30",
+			"blockEnd": "U+FE4F",
+			"blockName": "CJK Compatibility Forms",
+			"blockPageURL": "/wiki/CJK_Compatibility_Forms",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE50..U+FE6F",
+			"blockStart": "U+FE50",
+			"blockEnd": "U+FE6F",
+			"blockName": "Small Form Variants",
+			"blockPageURL": "/wiki/Small_Form_Variants",
+			"codePoints": 32,
+			"assignedCharacters": 26,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 26
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FE70..U+FEFF",
+			"blockStart": "U+FE70",
+			"blockEnd": "U+FEFF",
+			"blockName": "Arabic Presentation Forms-B",
+			"blockPageURL": "/wiki/Arabic_Presentation_Forms-B",
+			"codePoints": 144,
+			"assignedCharacters": 141,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 140
+				},
+				{
+					"name": "Common",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FF00..U+FFEF",
+			"blockStart": "U+FF00",
+			"blockEnd": "U+FFEF",
+			"blockName": "Halfwidth and Fullwidth Forms",
+			"blockPageURL": "/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block)",
+			"codePoints": 240,
+			"assignedCharacters": 225,
+			"scripts": [
+				{
+					"name": "Hangul",
+					"charCount": 52
+				},
+				{
+					"name": "Katakana",
+					"charCount": 55
+				},
+				{
+					"name": "Latin",
+					"charCount": 52
+				},
+				{
+					"name": "Common",
+					"charCount": 66
+				}
+			]
+		},
+		{
+			"plane": "0 BMP",
+			"blockRange": "U+FFF0..U+FFFF",
+			"blockStart": "U+FFF0",
+			"blockEnd": "U+FFFF",
+			"blockName": "Specials",
+			"blockPageURL": "/wiki/Specials_(Unicode_block)",
+			"codePoints": 16,
+			"assignedCharacters": 5,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 5
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10000..U+1007F",
+			"blockStart": "U+10000",
+			"blockEnd": "U+1007F",
+			"blockName": "Linear B Syllabary",
+			"blockPageURL": "/wiki/Linear_B_Syllabary",
+			"codePoints": 128,
+			"assignedCharacters": 88,
+			"scripts": [
+				{
+					"name": "Linear B",
+					"charCount": 88
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10080..U+100FF",
+			"blockStart": "U+10080",
+			"blockEnd": "U+100FF",
+			"blockName": "Linear B Ideograms",
+			"blockPageURL": "/wiki/Linear_B_Ideograms",
+			"codePoints": 128,
+			"assignedCharacters": 123,
+			"scripts": [
+				{
+					"name": "Linear B",
+					"charCount": 123
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10100..U+1013F",
+			"blockStart": "U+10100",
+			"blockEnd": "U+1013F",
+			"blockName": "Aegean Numbers",
+			"blockPageURL": "/wiki/Aegean_Numbers_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 57,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 57
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10140..U+1018F",
+			"blockStart": "U+10140",
+			"blockEnd": "U+1018F",
+			"blockName": "Ancient Greek Numbers",
+			"blockPageURL": "/wiki/Ancient_Greek_Numbers_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 79,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 79
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10190..U+101CF",
+			"blockStart": "U+10190",
+			"blockEnd": "U+101CF",
+			"blockName": "Ancient Symbols",
+			"blockPageURL": "/wiki/Ancient_Symbols_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 14,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 1
+				},
+				{
+					"name": "Common",
+					"charCount": 13
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+101D0..U+101FF",
+			"blockStart": "U+101D0",
+			"blockEnd": "U+101FF",
+			"blockName": "Phaistos Disc",
+			"blockPageURL": "/wiki/Phaistos_Disc_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 46,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 45
+				},
+				{
+					"name": "Inherited",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10280..U+1029F",
+			"blockStart": "U+10280",
+			"blockEnd": "U+1029F",
+			"blockName": "Lycian",
+			"blockPageURL": "/wiki/Lycian_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Lycian",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+102A0..U+102DF",
+			"blockStart": "U+102A0",
+			"blockEnd": "U+102DF",
+			"blockName": "Carian",
+			"blockPageURL": "/wiki/Carian_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 49,
+			"scripts": [
+				{
+					"name": "Carian",
+					"charCount": 49
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+102E0..U+102FF",
+			"blockStart": "U+102E0",
+			"blockEnd": "U+102FF",
+			"blockName": "Coptic Epact Numbers",
+			"blockPageURL": "/wiki/Coptic_Epact_Numbers",
+			"codePoints": 32,
+			"assignedCharacters": 28,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 27
+				},
+				{
+					"name": "Inherited",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10300..U+1032F",
+			"blockStart": "U+10300",
+			"blockEnd": "U+1032F",
+			"blockName": "Old Italic",
+			"blockPageURL": "/wiki/Old_Italic_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 39,
+			"scripts": [
+				{
+					"name": "Old Italic",
+					"charCount": 39
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10330..U+1034F",
+			"blockStart": "U+10330",
+			"blockEnd": "U+1034F",
+			"blockName": "Gothic",
+			"blockPageURL": "/wiki/Gothic_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 27,
+			"scripts": [
+				{
+					"name": "Gothic",
+					"charCount": 27
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10350..U+1037F",
+			"blockStart": "U+10350",
+			"blockEnd": "U+1037F",
+			"blockName": "Old Permic",
+			"blockPageURL": "/wiki/Old_Permic_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 43,
+			"scripts": [
+				{
+					"name": "Old Permic",
+					"charCount": 43
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10380..U+1039F",
+			"blockStart": "U+10380",
+			"blockEnd": "U+1039F",
+			"blockName": "Ugaritic",
+			"blockPageURL": "/wiki/Ugaritic_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Ugaritic",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+103A0..U+103DF",
+			"blockStart": "U+103A0",
+			"blockEnd": "U+103DF",
+			"blockName": "Old Persian",
+			"blockPageURL": "/wiki/Old_Persian_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 50,
+			"scripts": [
+				{
+					"name": "Old Persian",
+					"charCount": 50
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10400..U+1044F",
+			"blockStart": "U+10400",
+			"blockEnd": "U+1044F",
+			"blockName": "Deseret",
+			"blockPageURL": "/wiki/Deseret_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Deseret",
+					"charCount": 80
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10450..U+1047F",
+			"blockStart": "U+10450",
+			"blockEnd": "U+1047F",
+			"blockName": "Shavian",
+			"blockPageURL": "/wiki/Shavian_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Shavian",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10480..U+104AF",
+			"blockStart": "U+10480",
+			"blockEnd": "U+104AF",
+			"blockName": "Osmanya",
+			"blockPageURL": "/wiki/Osmanya_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 40,
+			"scripts": [
+				{
+					"name": "Osmanya",
+					"charCount": 40
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+104B0..U+104FF",
+			"blockStart": "U+104B0",
+			"blockEnd": "U+104FF",
+			"blockName": "Osage",
+			"blockPageURL": "/wiki/Osage_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Osage",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10500..U+1052F",
+			"blockStart": "U+10500",
+			"blockEnd": "U+1052F",
+			"blockName": "Elbasan",
+			"blockPageURL": "/wiki/Elbasan_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 40,
+			"scripts": [
+				{
+					"name": "Elbasan",
+					"charCount": 40
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10530..U+1056F",
+			"blockStart": "U+10530",
+			"blockEnd": "U+1056F",
+			"blockName": "Caucasian Albanian",
+			"blockPageURL": "/wiki/Caucasian_Albanian_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 53,
+			"scripts": [
+				{
+					"name": "Caucasian Albanian",
+					"charCount": 53
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10570..U+105BF",
+			"blockStart": "U+10570",
+			"blockEnd": "U+105BF",
+			"blockName": "Vithkuqi",
+			"blockPageURL": "/wiki/Vithkuqi_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 70,
+			"scripts": [
+				{
+					"name": "Vithkuqi",
+					"charCount": 70
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10600..U+1077F",
+			"blockStart": "U+10600",
+			"blockEnd": "U+1077F",
+			"blockName": "Linear A",
+			"blockPageURL": "/wiki/Linear_A_(Unicode_block)",
+			"codePoints": 384,
+			"assignedCharacters": 341,
+			"scripts": [
+				{
+					"name": "Linear A",
+					"charCount": 341
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10780..U+107BF",
+			"blockStart": "U+10780",
+			"blockEnd": "U+107BF",
+			"blockName": "Latin Extended-F",
+			"blockPageURL": "/wiki/Latin_Extended-F",
+			"codePoints": 64,
+			"assignedCharacters": 57,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 57
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10800..U+1083F",
+			"blockStart": "U+10800",
+			"blockEnd": "U+1083F",
+			"blockName": "Cypriot Syllabary",
+			"blockPageURL": "/wiki/Cypriot_Syllabary_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 55,
+			"scripts": [
+				{
+					"name": "Cypriot",
+					"charCount": 55
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10840..U+1085F",
+			"blockStart": "U+10840",
+			"blockEnd": "U+1085F",
+			"blockName": "Imperial Aramaic",
+			"blockPageURL": "/wiki/Imperial_Aramaic_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Imperial Aramaic",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10860..U+1087F",
+			"blockStart": "U+10860",
+			"blockEnd": "U+1087F",
+			"blockName": "Palmyrene",
+			"blockPageURL": "/wiki/Palmyrene_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Palmyrene",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10880..U+108AF",
+			"blockStart": "U+10880",
+			"blockEnd": "U+108AF",
+			"blockName": "Nabataean",
+			"blockPageURL": "/wiki/Nabataean_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 40,
+			"scripts": [
+				{
+					"name": "Nabataean",
+					"charCount": 40
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+108E0..U+108FF",
+			"blockStart": "U+108E0",
+			"blockEnd": "U+108FF",
+			"blockName": "Hatran",
+			"blockPageURL": "/wiki/Hatran_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 26,
+			"scripts": [
+				{
+					"name": "Hatran",
+					"charCount": 26
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10900..U+1091F",
+			"blockStart": "U+10900",
+			"blockEnd": "U+1091F",
+			"blockName": "Phoenician",
+			"blockPageURL": "/wiki/Phoenician_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Phoenician",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10920..U+1093F",
+			"blockStart": "U+10920",
+			"blockEnd": "U+1093F",
+			"blockName": "Lydian",
+			"blockPageURL": "/wiki/Lydian_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 27,
+			"scripts": [
+				{
+					"name": "Lydian",
+					"charCount": 27
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10980..U+1099F",
+			"blockStart": "U+10980",
+			"blockEnd": "U+1099F",
+			"blockName": "Meroitic Hieroglyphs",
+			"blockPageURL": "/wiki/Meroitic_Hieroglyphs_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Meroitic Hieroglyphs",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+109A0..U+109FF",
+			"blockStart": "U+109A0",
+			"blockEnd": "U+109FF",
+			"blockName": "Meroitic Cursive",
+			"blockPageURL": "/wiki/Meroitic_Cursive_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 90,
+			"scripts": [
+				{
+					"name": "Meroitic Cursive",
+					"charCount": 90
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10A00..U+10A5F",
+			"blockStart": "U+10A00",
+			"blockEnd": "U+10A5F",
+			"blockName": "Kharoshthi",
+			"blockPageURL": "/wiki/Kharoshthi_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Kharoshthi",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10A60..U+10A7F",
+			"blockStart": "U+10A60",
+			"blockEnd": "U+10A7F",
+			"blockName": "Old South Arabian",
+			"blockPageURL": "/wiki/Old_South_Arabian_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Old South Arabian",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10A80..U+10A9F",
+			"blockStart": "U+10A80",
+			"blockEnd": "U+10A9F",
+			"blockName": "Old North Arabian",
+			"blockPageURL": "/wiki/Old_North_Arabian_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 32,
+			"scripts": [
+				{
+					"name": "Old North Arabian",
+					"charCount": 32
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10AC0..U+10AFF",
+			"blockStart": "U+10AC0",
+			"blockEnd": "U+10AFF",
+			"blockName": "Manichaean",
+			"blockPageURL": "/wiki/Manichaean_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 51,
+			"scripts": [
+				{
+					"name": "Manichaean",
+					"charCount": 51
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10B00..U+10B3F",
+			"blockStart": "U+10B00",
+			"blockEnd": "U+10B3F",
+			"blockName": "Avestan",
+			"blockPageURL": "/wiki/Avestan_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 61,
+			"scripts": [
+				{
+					"name": "Avestan",
+					"charCount": 61
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10B40..U+10B5F",
+			"blockStart": "U+10B40",
+			"blockEnd": "U+10B5F",
+			"blockName": "Inscriptional Parthian",
+			"blockPageURL": "/wiki/Inscriptional_Parthian_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 30,
+			"scripts": [
+				{
+					"name": "Inscriptional Parthian",
+					"charCount": 30
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10B60..U+10B7F",
+			"blockStart": "U+10B60",
+			"blockEnd": "U+10B7F",
+			"blockName": "Inscriptional Pahlavi",
+			"blockPageURL": "/wiki/Inscriptional_Pahlavi_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 27,
+			"scripts": [
+				{
+					"name": "Inscriptional Pahlavi",
+					"charCount": 27
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10B80..U+10BAF",
+			"blockStart": "U+10B80",
+			"blockEnd": "U+10BAF",
+			"blockName": "Psalter Pahlavi",
+			"blockPageURL": "/wiki/Psalter_Pahlavi_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 29,
+			"scripts": [
+				{
+					"name": "Psalter Pahlavi",
+					"charCount": 29
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10C00..U+10C4F",
+			"blockStart": "U+10C00",
+			"blockEnd": "U+10C4F",
+			"blockName": "Old Turkic",
+			"blockPageURL": "/wiki/Old_Turkic_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 73,
+			"scripts": [
+				{
+					"name": "Old Turkic",
+					"charCount": 73
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10C80..U+10CFF",
+			"blockStart": "U+10C80",
+			"blockEnd": "U+10CFF",
+			"blockName": "Old Hungarian",
+			"blockPageURL": "/wiki/Old_Hungarian_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 108,
+			"scripts": [
+				{
+					"name": "Old Hungarian",
+					"charCount": 108
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10D00..U+10D3F",
+			"blockStart": "U+10D00",
+			"blockEnd": "U+10D3F",
+			"blockName": "Hanifi Rohingya",
+			"blockPageURL": "/wiki/Hanifi_Rohingya_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 50,
+			"scripts": [
+				{
+					"name": "Hanifi Rohingya",
+					"charCount": 50
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10E60..U+10E7F",
+			"blockStart": "U+10E60",
+			"blockEnd": "U+10E7F",
+			"blockName": "Rumi Numeral Symbols",
+			"blockPageURL": "/wiki/Rumi_Numeral_Symbols",
+			"codePoints": 32,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10E80..U+10EBF",
+			"blockStart": "U+10E80",
+			"blockEnd": "U+10EBF",
+			"blockName": "Yezidi",
+			"blockPageURL": "/wiki/Yezidi_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 47,
+			"scripts": [
+				{
+					"name": "Yezidi",
+					"charCount": 47
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10EC0..U+10EFF",
+			"blockStart": "U+10EC0",
+			"blockEnd": "U+10EFF",
+			"blockName": "Arabic Extended-C",
+			"blockPageURL": "/wiki/Arabic_Extended-C",
+			"codePoints": 64,
+			"assignedCharacters": 3,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10F00..U+10F2F",
+			"blockStart": "U+10F00",
+			"blockEnd": "U+10F2F",
+			"blockName": "Old Sogdian",
+			"blockPageURL": "/wiki/Old_Sogdian_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 40,
+			"scripts": [
+				{
+					"name": "Old Sogdian",
+					"charCount": 40
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10F30..U+10F6F",
+			"blockStart": "U+10F30",
+			"blockEnd": "U+10F6F",
+			"blockName": "Sogdian",
+			"blockPageURL": "/wiki/Sogdian_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 42,
+			"scripts": [
+				{
+					"name": "Sogdian",
+					"charCount": 42
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10F70..U+10FAF",
+			"blockStart": "U+10F70",
+			"blockEnd": "U+10FAF",
+			"blockName": "Old Uyghur",
+			"blockPageURL": "/wiki/Old_Uyghur_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 26,
+			"scripts": [
+				{
+					"name": "Old Uyghur",
+					"charCount": 26
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10FB0..U+10FDF",
+			"blockStart": "U+10FB0",
+			"blockEnd": "U+10FDF",
+			"blockName": "Chorasmian",
+			"blockPageURL": "/wiki/Chorasmian_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 28,
+			"scripts": [
+				{
+					"name": "Chorasmian",
+					"charCount": 28
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+10FE0..U+10FFF",
+			"blockStart": "U+10FE0",
+			"blockEnd": "U+10FFF",
+			"blockName": "Elymaic",
+			"blockPageURL": "/wiki/Elymaic_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 23,
+			"scripts": [
+				{
+					"name": "Elymaic",
+					"charCount": 23
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11000..U+1107F",
+			"blockStart": "U+11000",
+			"blockEnd": "U+1107F",
+			"blockName": "Brahmi",
+			"blockPageURL": "/wiki/Brahmi_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 115,
+			"scripts": [
+				{
+					"name": "Brahmi",
+					"charCount": 115
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11080..U+110CF",
+			"blockStart": "U+11080",
+			"blockEnd": "U+110CF",
+			"blockName": "Kaithi",
+			"blockPageURL": "/wiki/Kaithi_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Kaithi",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+110D0..U+110FF",
+			"blockStart": "U+110D0",
+			"blockEnd": "U+110FF",
+			"blockName": "Sora Sompeng",
+			"blockPageURL": "/wiki/Sora_Sompeng_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 35,
+			"scripts": [
+				{
+					"name": "Sora Sompeng",
+					"charCount": 35
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11100..U+1114F",
+			"blockStart": "U+11100",
+			"blockEnd": "U+1114F",
+			"blockName": "Chakma",
+			"blockPageURL": "/wiki/Chakma_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 71,
+			"scripts": [
+				{
+					"name": "Chakma",
+					"charCount": 71
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11150..U+1117F",
+			"blockStart": "U+11150",
+			"blockEnd": "U+1117F",
+			"blockName": "Mahajani",
+			"blockPageURL": "/wiki/Mahajani_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 39,
+			"scripts": [
+				{
+					"name": "Mahajani",
+					"charCount": 39
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11180..U+111DF",
+			"blockStart": "U+11180",
+			"blockEnd": "U+111DF",
+			"blockName": "Sharada",
+			"blockPageURL": "/wiki/Sharada_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 96,
+			"scripts": [
+				{
+					"name": "Sharada",
+					"charCount": 96
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+111E0..U+111FF",
+			"blockStart": "U+111E0",
+			"blockEnd": "U+111FF",
+			"blockName": "Sinhala Archaic Numbers",
+			"blockPageURL": "/wiki/Sinhala_Archaic_Numbers",
+			"codePoints": 32,
+			"assignedCharacters": 20,
+			"scripts": [
+				{
+					"name": "Sinhala",
+					"charCount": 20
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11200..U+1124F",
+			"blockStart": "U+11200",
+			"blockEnd": "U+1124F",
+			"blockName": "Khojki",
+			"blockPageURL": "/wiki/Khojki_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 65,
+			"scripts": [
+				{
+					"name": "Khojki",
+					"charCount": 65
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11280..U+112AF",
+			"blockStart": "U+11280",
+			"blockEnd": "U+112AF",
+			"blockName": "Multani",
+			"blockPageURL": "/wiki/Multani_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 38,
+			"scripts": [
+				{
+					"name": "Multani",
+					"charCount": 38
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+112B0..U+112FF",
+			"blockStart": "U+112B0",
+			"blockEnd": "U+112FF",
+			"blockName": "Khudawadi",
+			"blockPageURL": "/wiki/Khudawadi_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 69,
+			"scripts": [
+				{
+					"name": "Khudawadi",
+					"charCount": 69
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11300..U+1137F",
+			"blockStart": "U+11300",
+			"blockEnd": "U+1137F",
+			"blockName": "Grantha",
+			"blockPageURL": "/wiki/Grantha_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 86,
+			"scripts": [
+				{
+					"name": "Grantha",
+					"charCount": 85
+				},
+				{
+					"name": "Inherited",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11400..U+1147F",
+			"blockStart": "U+11400",
+			"blockEnd": "U+1147F",
+			"blockName": "Newa",
+			"blockPageURL": "/wiki/Newa_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 97,
+			"scripts": [
+				{
+					"name": "Newa",
+					"charCount": 97
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11480..U+114DF",
+			"blockStart": "U+11480",
+			"blockEnd": "U+114DF",
+			"blockName": "Tirhuta",
+			"blockPageURL": "/wiki/Tirhuta_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 82,
+			"scripts": [
+				{
+					"name": "Tirhuta",
+					"charCount": 82
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11580..U+115FF",
+			"blockStart": "U+11580",
+			"blockEnd": "U+115FF",
+			"blockName": "Siddham",
+			"blockPageURL": "/wiki/Siddham_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 92,
+			"scripts": [
+				{
+					"name": "Siddham",
+					"charCount": 92
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11600..U+1165F",
+			"blockStart": "U+11600",
+			"blockEnd": "U+1165F",
+			"blockName": "Modi",
+			"blockPageURL": "/wiki/Modi_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 79,
+			"scripts": [
+				{
+					"name": "Modi",
+					"charCount": 79
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11660..U+1167F",
+			"blockStart": "U+11660",
+			"blockEnd": "U+1167F",
+			"blockName": "Mongolian Supplement",
+			"blockPageURL": "/wiki/Mongolian_Supplement",
+			"codePoints": 32,
+			"assignedCharacters": 13,
+			"scripts": [
+				{
+					"name": "Mongolian",
+					"charCount": 13
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11680..U+116CF",
+			"blockStart": "U+11680",
+			"blockEnd": "U+116CF",
+			"blockName": "Takri",
+			"blockPageURL": "/wiki/Takri_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Takri",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11700..U+1174F",
+			"blockStart": "U+11700",
+			"blockEnd": "U+1174F",
+			"blockName": "Ahom",
+			"blockPageURL": "/wiki/Ahom_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 65,
+			"scripts": [
+				{
+					"name": "Ahom",
+					"charCount": 65
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11800..U+1184F",
+			"blockStart": "U+11800",
+			"blockEnd": "U+1184F",
+			"blockName": "Dogra",
+			"blockPageURL": "/wiki/Dogra_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 60,
+			"scripts": [
+				{
+					"name": "Dogra",
+					"charCount": 60
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+118A0..U+118FF",
+			"blockStart": "U+118A0",
+			"blockEnd": "U+118FF",
+			"blockName": "Warang Citi",
+			"blockPageURL": "/wiki/Warang_Citi_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 84,
+			"scripts": [
+				{
+					"name": "Warang Citi",
+					"charCount": 84
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11900..U+1195F",
+			"blockStart": "U+11900",
+			"blockEnd": "U+1195F",
+			"blockName": "Dives Akuru",
+			"blockPageURL": "/wiki/Dives_Akuru_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Dives Akuru",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+119A0..U+119FF",
+			"blockStart": "U+119A0",
+			"blockEnd": "U+119FF",
+			"blockName": "Nandinagari",
+			"blockPageURL": "/wiki/Nandinagari_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 65,
+			"scripts": [
+				{
+					"name": "Nandinagari",
+					"charCount": 65
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11A00..U+11A4F",
+			"blockStart": "U+11A00",
+			"blockEnd": "U+11A4F",
+			"blockName": "Zanabazar Square",
+			"blockPageURL": "/wiki/Zanabazar_Square_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 72,
+			"scripts": [
+				{
+					"name": "Zanabazar Square",
+					"charCount": 72
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11A50..U+11AAF",
+			"blockStart": "U+11A50",
+			"blockEnd": "U+11AAF",
+			"blockName": "Soyombo",
+			"blockPageURL": "/wiki/Soyombo_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 83,
+			"scripts": [
+				{
+					"name": "Soyombo",
+					"charCount": 83
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11AB0..U+11ABF",
+			"blockStart": "U+11AB0",
+			"blockEnd": "U+11ABF",
+			"blockName": "Unified Canadian Aboriginal Syllabics Extended-A",
+			"blockPageURL": "/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended-A",
+			"codePoints": 16,
+			"assignedCharacters": 16,
+			"scripts": [
+				{
+					"name": "Canadian Aboriginal",
+					"charCount": 16
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11AC0..U+11AFF",
+			"blockStart": "U+11AC0",
+			"blockEnd": "U+11AFF",
+			"blockName": "Pau Cin Hau",
+			"blockPageURL": "/wiki/Pau_Cin_Hau_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 57,
+			"scripts": [
+				{
+					"name": "Pau Cin Hau",
+					"charCount": 57
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11B00..U+11B5F",
+			"blockStart": "U+11B00",
+			"blockEnd": "U+11B5F",
+			"blockName": "Devanagari Extended-A",
+			"blockPageURL": "/wiki/Devanagari_Extended-A",
+			"codePoints": 96,
+			"assignedCharacters": 10,
+			"scripts": [
+				{
+					"name": "Devanagari",
+					"charCount": 10
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11C00..U+11C6F",
+			"blockStart": "U+11C00",
+			"blockEnd": "U+11C6F",
+			"blockName": "Bhaiksuki",
+			"blockPageURL": "/wiki/Bhaiksuki_(Unicode_block)",
+			"codePoints": 112,
+			"assignedCharacters": 97,
+			"scripts": [
+				{
+					"name": "Bhaiksuki",
+					"charCount": 97
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11C70..U+11CBF",
+			"blockStart": "U+11C70",
+			"blockEnd": "U+11CBF",
+			"blockName": "Marchen",
+			"blockPageURL": "/wiki/Marchen_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Marchen",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11D00..U+11D5F",
+			"blockStart": "U+11D00",
+			"blockEnd": "U+11D5F",
+			"blockName": "Masaram Gondi",
+			"blockPageURL": "/wiki/Masaram_Gondi_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 75,
+			"scripts": [
+				{
+					"name": "Masaram Gondi",
+					"charCount": 75
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11D60..U+11DAF",
+			"blockStart": "U+11D60",
+			"blockEnd": "U+11DAF",
+			"blockName": "Gunjala Gondi",
+			"blockPageURL": "/wiki/Gunjala_Gondi_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 63,
+			"scripts": [
+				{
+					"name": "Gunjala Gondi",
+					"charCount": 63
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11EE0..U+11EFF",
+			"blockStart": "U+11EE0",
+			"blockEnd": "U+11EFF",
+			"blockName": "Makasar",
+			"blockPageURL": "/wiki/Makasar_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 25,
+			"scripts": [
+				{
+					"name": "Makasar",
+					"charCount": 25
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11F00..U+11F5F",
+			"blockStart": "U+11F00",
+			"blockEnd": "U+11F5F",
+			"blockName": "Kawi",
+			"blockPageURL": "/wiki/Kawi_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 86,
+			"scripts": [
+				{
+					"name": "Kawi",
+					"charCount": 86
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11FB0..U+11FBF",
+			"blockStart": "U+11FB0",
+			"blockEnd": "U+11FBF",
+			"blockName": "Lisu Supplement",
+			"blockPageURL": "/wiki/Lisu_Supplement",
+			"codePoints": 16,
+			"assignedCharacters": 1,
+			"scripts": [
+				{
+					"name": "Lisu",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+11FC0..U+11FFF",
+			"blockStart": "U+11FC0",
+			"blockEnd": "U+11FFF",
+			"blockName": "Tamil Supplement",
+			"blockPageURL": "/wiki/Tamil_Supplement",
+			"codePoints": 64,
+			"assignedCharacters": 51,
+			"scripts": [
+				{
+					"name": "Tamil",
+					"charCount": 51
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+12000..U+123FF",
+			"blockStart": "U+12000",
+			"blockEnd": "U+123FF",
+			"blockName": "Cuneiform",
+			"blockPageURL": "/wiki/Cuneiform_(Unicode_block)",
+			"codePoints": 1024,
+			"assignedCharacters": 922,
+			"scripts": [
+				{
+					"name": "Cuneiform",
+					"charCount": 922
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+12400..U+1247F",
+			"blockStart": "U+12400",
+			"blockEnd": "U+1247F",
+			"blockName": "Cuneiform Numbers and Punctuation",
+			"blockPageURL": "/wiki/Cuneiform_Numbers_and_Punctuation",
+			"codePoints": 128,
+			"assignedCharacters": 116,
+			"scripts": [
+				{
+					"name": "Cuneiform",
+					"charCount": 116
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+12480..U+1254F",
+			"blockStart": "U+12480",
+			"blockEnd": "U+1254F",
+			"blockName": "Early Dynastic Cuneiform",
+			"blockPageURL": "/wiki/Early_Dynastic_Cuneiform_(Unicode_block)",
+			"codePoints": 208,
+			"assignedCharacters": 196,
+			"scripts": [
+				{
+					"name": "Cuneiform",
+					"charCount": 196
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+12F90..U+12FFF",
+			"blockStart": "U+12F90",
+			"blockEnd": "U+12FFF",
+			"blockName": "Cypro-Minoan",
+			"blockPageURL": "/wiki/Cypro-Minoan_(Unicode_block)",
+			"codePoints": 112,
+			"assignedCharacters": 99,
+			"scripts": [
+				{
+					"name": "Cypro Minoan",
+					"charCount": 99
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+13000..U+1342F",
+			"blockStart": "U+13000",
+			"blockEnd": "U+1342F",
+			"blockName": "Egyptian Hieroglyphs",
+			"blockPageURL": "/wiki/Egyptian_Hieroglyphs_(Unicode_block)",
+			"codePoints": 1072,
+			"assignedCharacters": 1072,
+			"scripts": [
+				{
+					"name": "Egyptian Hieroglyphs",
+					"charCount": 1072
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+13430..U+1345F",
+			"blockStart": "U+13430",
+			"blockEnd": "U+1345F",
+			"blockName": "Egyptian Hieroglyph Format Controls",
+			"blockPageURL": "/wiki/Egyptian_Hieroglyph_Format_Controls",
+			"codePoints": 48,
+			"assignedCharacters": 38,
+			"scripts": [
+				{
+					"name": "Egyptian Hieroglyphs",
+					"charCount": 38
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+14400..U+1467F",
+			"blockStart": "U+14400",
+			"blockEnd": "U+1467F",
+			"blockName": "Anatolian Hieroglyphs",
+			"blockPageURL": "/wiki/Anatolian_Hieroglyphs_(Unicode_block)",
+			"codePoints": 640,
+			"assignedCharacters": 583,
+			"scripts": [
+				{
+					"name": "Anatolian Hieroglyphs",
+					"charCount": 583
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16800..U+16A3F",
+			"blockStart": "U+16800",
+			"blockEnd": "U+16A3F",
+			"blockName": "Bamum Supplement",
+			"blockPageURL": "/wiki/Bamum_Supplement",
+			"codePoints": 576,
+			"assignedCharacters": 569,
+			"scripts": [
+				{
+					"name": "Bamum",
+					"charCount": 569
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16A40..U+16A6F",
+			"blockStart": "U+16A40",
+			"blockEnd": "U+16A6F",
+			"blockName": "Mro",
+			"blockPageURL": "/wiki/Mro_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 43,
+			"scripts": [
+				{
+					"name": "Mro",
+					"charCount": 43
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16A70..U+16ACF",
+			"blockStart": "U+16A70",
+			"blockEnd": "U+16ACF",
+			"blockName": "Tangsa",
+			"blockPageURL": "/wiki/Tangsa_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 89,
+			"scripts": [
+				{
+					"name": "Tangsa",
+					"charCount": 89
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16AD0..U+16AFF",
+			"blockStart": "U+16AD0",
+			"blockEnd": "U+16AFF",
+			"blockName": "Bassa Vah",
+			"blockPageURL": "/wiki/Bassa_Vah_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 36,
+			"scripts": [
+				{
+					"name": "Bassa Vah",
+					"charCount": 36
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16B00..U+16B8F",
+			"blockStart": "U+16B00",
+			"blockEnd": "U+16B8F",
+			"blockName": "Pahawh Hmong",
+			"blockPageURL": "/wiki/Pahawh_Hmong_(Unicode_block)",
+			"codePoints": 144,
+			"assignedCharacters": 127,
+			"scripts": [
+				{
+					"name": "Pahawh Hmong",
+					"charCount": 127
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16E40..U+16E9F",
+			"blockStart": "U+16E40",
+			"blockEnd": "U+16E9F",
+			"blockName": "Medefaidrin",
+			"blockPageURL": "/wiki/Medefaidrin_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 91,
+			"scripts": [
+				{
+					"name": "Medefaidrin",
+					"charCount": 91
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16F00..U+16F9F",
+			"blockStart": "U+16F00",
+			"blockEnd": "U+16F9F",
+			"blockName": "Miao",
+			"blockPageURL": "/wiki/Miao_(Unicode_block)",
+			"codePoints": 160,
+			"assignedCharacters": 149,
+			"scripts": [
+				{
+					"name": "Miao",
+					"charCount": 149
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+16FE0..U+16FFF",
+			"blockStart": "U+16FE0",
+			"blockEnd": "U+16FFF",
+			"blockName": "Ideographic Symbols and Punctuation",
+			"blockPageURL": "/wiki/Ideographic_Symbols_and_Punctuation",
+			"codePoints": 32,
+			"assignedCharacters": 7,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 4
+				},
+				{
+					"name": "Khitan Small Script",
+					"charCount": 1
+				},
+				{
+					"name": "Nushu",
+					"charCount": 1
+				},
+				{
+					"name": "Tangut",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+17000..U+187FF",
+			"blockStart": "U+17000",
+			"blockEnd": "U+187FF",
+			"blockName": "Tangut",
+			"blockPageURL": "/wiki/Tangut_(Unicode_block)",
+			"codePoints": 6144,
+			"assignedCharacters": 6136,
+			"scripts": [
+				{
+					"name": "Tangut",
+					"charCount": 6136
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+18800..U+18AFF",
+			"blockStart": "U+18800",
+			"blockEnd": "U+18AFF",
+			"blockName": "Tangut Components",
+			"blockPageURL": "/wiki/Tangut_Components",
+			"codePoints": 768,
+			"assignedCharacters": 768,
+			"scripts": [
+				{
+					"name": "Tangut",
+					"charCount": 768
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+18B00..U+18CFF",
+			"blockStart": "U+18B00",
+			"blockEnd": "U+18CFF",
+			"blockName": "Khitan Small Script",
+			"blockPageURL": "/wiki/Khitan_Small_Script_(Unicode_block)",
+			"codePoints": 512,
+			"assignedCharacters": 470,
+			"scripts": [
+				{
+					"name": "Khitan Small Script",
+					"charCount": 470
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+18D00..U+18D7F",
+			"blockStart": "U+18D00",
+			"blockEnd": "U+18D7F",
+			"blockName": "Tangut Supplement",
+			"blockPageURL": "/wiki/Tangut_Supplement",
+			"codePoints": 128,
+			"assignedCharacters": 9,
+			"scripts": [
+				{
+					"name": "Tangut",
+					"charCount": 9
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1AFF0..U+1AFFF",
+			"blockStart": "U+1AFF0",
+			"blockEnd": "U+1AFFF",
+			"blockName": "Kana Extended-B",
+			"blockPageURL": "/wiki/Kana_Extended-B",
+			"codePoints": 16,
+			"assignedCharacters": 13,
+			"scripts": [
+				{
+					"name": "Katakana",
+					"charCount": 13
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1B000..U+1B0FF",
+			"blockStart": "U+1B000",
+			"blockEnd": "U+1B0FF",
+			"blockName": "Kana Supplement",
+			"blockPageURL": "/wiki/Kana_Supplement",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Hiragana",
+					"charCount": 255
+				},
+				{
+					"name": "Katakana",
+					"charCount": 1
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1B100..U+1B12F",
+			"blockStart": "U+1B100",
+			"blockEnd": "U+1B12F",
+			"blockName": "Kana Extended-A",
+			"blockPageURL": "/wiki/Kana_Extended-A",
+			"codePoints": 48,
+			"assignedCharacters": 35,
+			"scripts": [
+				{
+					"name": "Hiragana",
+					"charCount": 32
+				},
+				{
+					"name": "Katakana",
+					"charCount": 3
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1B130..U+1B16F",
+			"blockStart": "U+1B130",
+			"blockEnd": "U+1B16F",
+			"blockName": "Small Kana Extension",
+			"blockPageURL": "/wiki/Small_Kana_Extension",
+			"codePoints": 64,
+			"assignedCharacters": 9,
+			"scripts": [
+				{
+					"name": "Hiragana",
+					"charCount": 4
+				},
+				{
+					"name": "Katakana",
+					"charCount": 5
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1B170..U+1B2FF",
+			"blockStart": "U+1B170",
+			"blockEnd": "U+1B2FF",
+			"blockName": "Nushu",
+			"blockPageURL": "/wiki/Nushu_(Unicode_block)",
+			"codePoints": 400,
+			"assignedCharacters": 396,
+			"scripts": [
+				{
+					"name": "N\u00fcshu",
+					"charCount": 396
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1BC00..U+1BC9F",
+			"blockStart": "U+1BC00",
+			"blockEnd": "U+1BC9F",
+			"blockName": "Duployan",
+			"blockPageURL": "/wiki/Duployan_(Unicode_block)",
+			"codePoints": 160,
+			"assignedCharacters": 143,
+			"scripts": [
+				{
+					"name": "Duployan",
+					"charCount": 143
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1BCA0..U+1BCAF",
+			"blockStart": "U+1BCA0",
+			"blockEnd": "U+1BCAF",
+			"blockName": "Shorthand Format Controls",
+			"blockPageURL": "/wiki/Shorthand_Format_Controls",
+			"codePoints": 16,
+			"assignedCharacters": 4,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 4
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1CF00..U+1CFCF",
+			"blockStart": "U+1CF00",
+			"blockEnd": "U+1CFCF",
+			"blockName": "Znamenny Musical Notation",
+			"blockPageURL": "/wiki/Znamenny_Musical_Notation",
+			"codePoints": 208,
+			"assignedCharacters": 185,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 116
+				},
+				{
+					"name": "Inherited",
+					"charCount": 69
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D000..U+1D0FF",
+			"blockStart": "U+1D000",
+			"blockEnd": "U+1D0FF",
+			"blockName": "Byzantine Musical Symbols",
+			"blockPageURL": "/wiki/Byzantine_Musical_Symbols",
+			"codePoints": 256,
+			"assignedCharacters": 246,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 246
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D100..U+1D1FF",
+			"blockStart": "U+1D100",
+			"blockEnd": "U+1D1FF",
+			"blockName": "Musical Symbols",
+			"blockPageURL": "/wiki/Musical_Symbols_(Unicode_block)",
+			"codePoints": 256,
+			"assignedCharacters": 233,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 211
+				},
+				{
+					"name": "Inherited",
+					"charCount": 22
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D200..U+1D24F",
+			"blockStart": "U+1D200",
+			"blockEnd": "U+1D24F",
+			"blockName": "Ancient Greek Musical Notation",
+			"blockPageURL": "/wiki/Ancient_Greek_Musical_Notation",
+			"codePoints": 80,
+			"assignedCharacters": 70,
+			"scripts": [
+				{
+					"name": "Greek",
+					"charCount": 70
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D2C0..U+1D2DF",
+			"blockStart": "U+1D2C0",
+			"blockEnd": "U+1D2DF",
+			"blockName": "Kaktovik Numerals",
+			"blockPageURL": "/wiki/Kaktovik_Numerals_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 20,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 20
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D2E0..U+1D2FF",
+			"blockStart": "U+1D2E0",
+			"blockEnd": "U+1D2FF",
+			"blockName": "Mayan Numerals",
+			"blockPageURL": "/wiki/Mayan_Numerals_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 20,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 20
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D300..U+1D35F",
+			"blockStart": "U+1D300",
+			"blockEnd": "U+1D35F",
+			"blockName": "Tai Xuan Jing Symbols",
+			"blockPageURL": "/wiki/Taixuanjing",
+			"codePoints": 96,
+			"assignedCharacters": 87,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 87
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D360..U+1D37F",
+			"blockStart": "U+1D360",
+			"blockEnd": "U+1D37F",
+			"blockName": "Counting Rod Numerals",
+			"blockPageURL": "/wiki/Counting_Rod_Numerals_(Unicode_block)",
+			"codePoints": 32,
+			"assignedCharacters": 25,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 25
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D400..U+1D7FF",
+			"blockStart": "U+1D400",
+			"blockEnd": "U+1D7FF",
+			"blockName": "Mathematical Alphanumeric Symbols",
+			"blockPageURL": "/wiki/Mathematical_Alphanumeric_Symbols",
+			"codePoints": 1024,
+			"assignedCharacters": 996,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 996
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1D800..U+1DAAF",
+			"blockStart": "U+1D800",
+			"blockEnd": "U+1DAAF",
+			"blockName": "Sutton SignWriting",
+			"blockPageURL": "/wiki/Sutton_SignWriting_(Unicode_block)",
+			"codePoints": 688,
+			"assignedCharacters": 672,
+			"scripts": [
+				{
+					"name": "SignWriting",
+					"charCount": 672
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1DF00..U+1DFFF",
+			"blockStart": "U+1DF00",
+			"blockEnd": "U+1DFFF",
+			"blockName": "Latin Extended-G",
+			"blockPageURL": "/wiki/Latin_Extended-G",
+			"codePoints": 256,
+			"assignedCharacters": 37,
+			"scripts": [
+				{
+					"name": "Latin",
+					"charCount": 37
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E000..U+1E02F",
+			"blockStart": "U+1E000",
+			"blockEnd": "U+1E02F",
+			"blockName": "Glagolitic Supplement",
+			"blockPageURL": "/wiki/Glagolitic_Supplement",
+			"codePoints": 48,
+			"assignedCharacters": 38,
+			"scripts": [
+				{
+					"name": "Glagolitic",
+					"charCount": 38
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E030..U+1E08F",
+			"blockStart": "U+1E030",
+			"blockEnd": "U+1E08F",
+			"blockName": "Cyrillic Extended-D",
+			"blockPageURL": "/wiki/Cyrillic_Extended-D",
+			"codePoints": 96,
+			"assignedCharacters": 63,
+			"scripts": [
+				{
+					"name": "Cyrillic",
+					"charCount": 63
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E100..U+1E14F",
+			"blockStart": "U+1E100",
+			"blockEnd": "U+1E14F",
+			"blockName": "Nyiakeng Puachue Hmong",
+			"blockPageURL": "/wiki/Nyiakeng_Puachue_Hmong_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 71,
+			"scripts": [
+				{
+					"name": "Nyiakeng Puachue Hmong",
+					"charCount": 71
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E290..U+1E2BF",
+			"blockStart": "U+1E290",
+			"blockEnd": "U+1E2BF",
+			"blockName": "Toto",
+			"blockPageURL": "/wiki/Toto_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 31,
+			"scripts": [
+				{
+					"name": "Toto",
+					"charCount": 31
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E2C0..U+1E2FF",
+			"blockStart": "U+1E2C0",
+			"blockEnd": "U+1E2FF",
+			"blockName": "Wancho",
+			"blockPageURL": "/wiki/Wancho_(Unicode_block)",
+			"codePoints": 64,
+			"assignedCharacters": 59,
+			"scripts": [
+				{
+					"name": "Wancho",
+					"charCount": 59
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E4D0..U+1E4FF",
+			"blockStart": "U+1E4D0",
+			"blockEnd": "U+1E4FF",
+			"blockName": "Nag Mundari",
+			"blockPageURL": "/wiki/Nag_Mundari_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 42,
+			"scripts": [
+				{
+					"name": "Mundari",
+					"charCount": 42
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E7E0..U+1E7FF",
+			"blockStart": "U+1E7E0",
+			"blockEnd": "U+1E7FF",
+			"blockName": "Ethiopic Extended-B",
+			"blockPageURL": "/wiki/Ethiopic_Extended-B",
+			"codePoints": 32,
+			"assignedCharacters": 28,
+			"scripts": [
+				{
+					"name": "Ethiopic",
+					"charCount": 28
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E800..U+1E8DF",
+			"blockStart": "U+1E800",
+			"blockEnd": "U+1E8DF",
+			"blockName": "Mende Kikakui",
+			"blockPageURL": "/wiki/Mende_Kikakui_(Unicode_block)",
+			"codePoints": 224,
+			"assignedCharacters": 213,
+			"scripts": [
+				{
+					"name": "Mende Kikakui",
+					"charCount": 213
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1E900..U+1E95F",
+			"blockStart": "U+1E900",
+			"blockEnd": "U+1E95F",
+			"blockName": "Adlam",
+			"blockPageURL": "/wiki/Adlam_(Unicode_block)",
+			"codePoints": 96,
+			"assignedCharacters": 88,
+			"scripts": [
+				{
+					"name": "Adlam",
+					"charCount": 88
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1EC70..U+1ECBF",
+			"blockStart": "U+1EC70",
+			"blockEnd": "U+1ECBF",
+			"blockName": "Indic Siyaq Numbers",
+			"blockPageURL": "/wiki/Indic_Siyaq_Numbers",
+			"codePoints": 80,
+			"assignedCharacters": 68,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 68
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1ED00..U+1ED4F",
+			"blockStart": "U+1ED00",
+			"blockEnd": "U+1ED4F",
+			"blockName": "Ottoman Siyaq Numbers",
+			"blockPageURL": "/wiki/Ottoman_Siyaq_Numbers",
+			"codePoints": 80,
+			"assignedCharacters": 61,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 61
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1EE00..U+1EEFF",
+			"blockStart": "U+1EE00",
+			"blockEnd": "U+1EEFF",
+			"blockName": "Arabic Mathematical Alphabetic Symbols",
+			"blockPageURL": "/wiki/Arabic_Mathematical_Alphabetic_Symbols",
+			"codePoints": 256,
+			"assignedCharacters": 143,
+			"scripts": [
+				{
+					"name": "Arabic",
+					"charCount": 143
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F000..U+1F02F",
+			"blockStart": "U+1F000",
+			"blockEnd": "U+1F02F",
+			"blockName": "Mahjong Tiles",
+			"blockPageURL": "/wiki/Mahjong_Tiles_(Unicode_block)",
+			"codePoints": 48,
+			"assignedCharacters": 44,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 44
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F030..U+1F09F",
+			"blockStart": "U+1F030",
+			"blockEnd": "U+1F09F",
+			"blockName": "Domino Tiles",
+			"blockPageURL": "/wiki/Domino_Tiles",
+			"codePoints": 112,
+			"assignedCharacters": 100,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 100
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F0A0..U+1F0FF",
+			"blockStart": "U+1F0A0",
+			"blockEnd": "U+1F0FF",
+			"blockName": "Playing Cards",
+			"blockPageURL": "/wiki/Playing_cards_in_Unicode",
+			"codePoints": 96,
+			"assignedCharacters": 82,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 82
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F100..U+1F1FF",
+			"blockStart": "U+1F100",
+			"blockEnd": "U+1F1FF",
+			"blockName": "Enclosed Alphanumeric Supplement",
+			"blockPageURL": "/wiki/Enclosed_Alphanumeric_Supplement",
+			"codePoints": 256,
+			"assignedCharacters": 200,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 200
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F200..U+1F2FF",
+			"blockStart": "U+1F200",
+			"blockEnd": "U+1F2FF",
+			"blockName": "Enclosed Ideographic Supplement",
+			"blockPageURL": "/wiki/Enclosed_Ideographic_Supplement",
+			"codePoints": 256,
+			"assignedCharacters": 64,
+			"scripts": [
+				{
+					"name": "Hiragana",
+					"charCount": 1
+				},
+				{
+					"name": "Common",
+					"charCount": 63
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F300..U+1F5FF",
+			"blockStart": "U+1F300",
+			"blockEnd": "U+1F5FF",
+			"blockName": "Miscellaneous Symbols and Pictographs",
+			"blockPageURL": "/wiki/Miscellaneous_Symbols_and_Pictographs",
+			"codePoints": 768,
+			"assignedCharacters": 768,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 768
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F600..U+1F64F",
+			"blockStart": "U+1F600",
+			"blockEnd": "U+1F64F",
+			"blockName": "Emoticons",
+			"blockPageURL": "/wiki/Emoticons_(Unicode_block)",
+			"codePoints": 80,
+			"assignedCharacters": 80,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 80
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F650..U+1F67F",
+			"blockStart": "U+1F650",
+			"blockEnd": "U+1F67F",
+			"blockName": "Ornamental Dingbats",
+			"blockPageURL": "/wiki/Ornamental_Dingbats",
+			"codePoints": 48,
+			"assignedCharacters": 48,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 48
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F680..U+1F6FF",
+			"blockStart": "U+1F680",
+			"blockEnd": "U+1F6FF",
+			"blockName": "Transport and Map Symbols",
+			"blockPageURL": "/wiki/Transport_and_Map_Symbols",
+			"codePoints": 128,
+			"assignedCharacters": 118,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 118
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F700..U+1F77F",
+			"blockStart": "U+1F700",
+			"blockEnd": "U+1F77F",
+			"blockName": "Alchemical Symbols",
+			"blockPageURL": "/wiki/Alchemical_Symbols_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 124,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 124
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F780..U+1F7FF",
+			"blockStart": "U+1F780",
+			"blockEnd": "U+1F7FF",
+			"blockName": "Geometric Shapes Extended",
+			"blockPageURL": "/wiki/Geometric_Shapes_Extended",
+			"codePoints": 128,
+			"assignedCharacters": 103,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 103
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F800..U+1F8FF",
+			"blockStart": "U+1F800",
+			"blockEnd": "U+1F8FF",
+			"blockName": "Supplemental Arrows-C",
+			"blockPageURL": "/wiki/Supplemental_Arrows-C",
+			"codePoints": 256,
+			"assignedCharacters": 150,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 150
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1F900..U+1F9FF",
+			"blockStart": "U+1F900",
+			"blockEnd": "U+1F9FF",
+			"blockName": "Supplemental Symbols and Pictographs",
+			"blockPageURL": "/wiki/Supplemental_Symbols_and_Pictographs",
+			"codePoints": 256,
+			"assignedCharacters": 256,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 256
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1FA00..U+1FA6F",
+			"blockStart": "U+1FA00",
+			"blockEnd": "U+1FA6F",
+			"blockName": "Chess Symbols",
+			"blockPageURL": "/wiki/Chess_Symbols",
+			"codePoints": 112,
+			"assignedCharacters": 98,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 98
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1FA70..U+1FAFF",
+			"blockStart": "U+1FA70",
+			"blockEnd": "U+1FAFF",
+			"blockName": "Symbols and Pictographs Extended-A",
+			"blockPageURL": "/wiki/Symbols_and_Pictographs_Extended-A",
+			"codePoints": 144,
+			"assignedCharacters": 107,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 107
+				}
+			]
+		},
+		{
+			"plane": "1 SMP",
+			"blockRange": "U+1FB00..U+1FBFF",
+			"blockStart": "U+1FB00",
+			"blockEnd": "U+1FBFF",
+			"blockName": "Symbols for Legacy Computing",
+			"blockPageURL": "/wiki/Symbols_for_Legacy_Computing",
+			"codePoints": 256,
+			"assignedCharacters": 212,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 212
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+20000..U+2A6DF",
+			"blockStart": "U+20000",
+			"blockEnd": "U+2A6DF",
+			"blockName": "CJK Unified Ideographs Extension B",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_B",
+			"codePoints": 42720,
+			"assignedCharacters": 42720,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 42720
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+2A700..U+2B73F",
+			"blockStart": "U+2A700",
+			"blockEnd": "U+2B73F",
+			"blockName": "CJK Unified Ideographs Extension C",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_C",
+			"codePoints": 4160,
+			"assignedCharacters": 4154,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 4154
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+2B740..U+2B81F",
+			"blockStart": "U+2B740",
+			"blockEnd": "U+2B81F",
+			"blockName": "CJK Unified Ideographs Extension D",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_D",
+			"codePoints": 224,
+			"assignedCharacters": 222,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 222
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+2B820..U+2CEAF",
+			"blockStart": "U+2B820",
+			"blockEnd": "U+2CEAF",
+			"blockName": "CJK Unified Ideographs Extension E",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_E",
+			"codePoints": 5776,
+			"assignedCharacters": 5762,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 5762
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+2CEB0..U+2EBEF",
+			"blockStart": "U+2CEB0",
+			"blockEnd": "U+2EBEF",
+			"blockName": "CJK Unified Ideographs Extension F",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_F",
+			"codePoints": 7488,
+			"assignedCharacters": 7473,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 7473
+				}
+			]
+		},
+		{
+			"plane": "2 SIP",
+			"blockRange": "U+2F800..U+2FA1F",
+			"blockStart": "U+2F800",
+			"blockEnd": "U+2FA1F",
+			"blockName": "CJK Compatibility Ideographs Supplement",
+			"blockPageURL": "/wiki/CJK_Compatibility_Ideographs_Supplement",
+			"codePoints": 544,
+			"assignedCharacters": 542,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 542
+				}
+			]
+		},
+		{
+			"plane": "3 TIP",
+			"blockRange": "U+30000..U+3134F",
+			"blockStart": "U+30000",
+			"blockEnd": "U+3134F",
+			"blockName": "CJK Unified Ideographs Extension G",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_G",
+			"codePoints": 4944,
+			"assignedCharacters": 4939,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 4939
+				}
+			]
+		},
+		{
+			"plane": "3 TIP",
+			"blockRange": "U+31350..U+323AF",
+			"blockStart": "U+31350",
+			"blockEnd": "U+323AF",
+			"blockName": "CJK Unified Ideographs Extension H",
+			"blockPageURL": "/wiki/CJK_Unified_Ideographs_Extension_H",
+			"codePoints": 4192,
+			"assignedCharacters": 4192,
+			"scripts": [
+				{
+					"name": "Han",
+					"charCount": 4192
+				}
+			]
+		},
+		{
+			"plane": "14\u00a0SSP",
+			"blockRange": "U+E0000..U+E007F",
+			"blockStart": "U+E0000",
+			"blockEnd": "U+E007F",
+			"blockName": "Tags",
+			"blockPageURL": "/wiki/Tags_(Unicode_block)",
+			"codePoints": 128,
+			"assignedCharacters": 97,
+			"scripts": [
+				{
+					"name": "Common",
+					"charCount": 97
+				}
+			]
+		},
+		{
+			"plane": "14\u00a0SSP",
+			"blockRange": "U+E0100..U+E01EF",
+			"blockStart": "U+E0100",
+			"blockEnd": "U+E01EF",
+			"blockName": "Variation Selectors Supplement",
+			"blockPageURL": "/wiki/Variation_Selectors_Supplement",
+			"codePoints": 240,
+			"assignedCharacters": 240,
+			"scripts": [
+				{
+					"name": "Inherited",
+					"charCount": 240
+				}
+			]
+		},
+		{
+			"plane": "15\u00a0PUA-A",
+			"blockRange": "U+F0000..U+FFFFF",
+			"blockStart": "U+F0000",
+			"blockEnd": "U+FFFFF",
+			"blockName": "Supplementary Private Use Area-A",
+			"blockPageURL": "/wiki/Private_Use_Areas",
+			"codePoints": 65536,
+			"assignedCharacters": 65534,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 65534
+				}
+			]
+		},
+		{
+			"plane": "16\u00a0PUA-B",
+			"blockRange": "U+100000..U+10FFFF",
+			"blockStart": "U+100000",
+			"blockEnd": "U+10FFFF",
+			"blockName": "Supplementary Private Use Area-B",
+			"blockPageURL": "/wiki/Private_Use_Areas",
+			"codePoints": 65536,
+			"assignedCharacters": 65534,
+			"scripts": [
+				{
+					"name": "Unknown",
+					"charCount": 65534
+				}
+			]
+		}
+	]
+}

@@ -1,13 +1,14 @@
 import 'miniwindcss';
 import './App.css';
+import AsciiView from './AsciiView/AsciiView';
 
 
 
 function App () {
 
 	return (
-		<div className="min-h-screen flex bg-red-200 text-red-800">
-			<h1 className="m-auto">ASCII View</h1>
+		<div className="bg-slate-100 text-zinc-800">
+			<AsciiView />
 		</div>
 	)
 }

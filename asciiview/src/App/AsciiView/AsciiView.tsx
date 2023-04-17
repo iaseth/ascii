@@ -1,5 +1,6 @@
 import React from "react";
 import CodePoint from "./CodePoint/CodePoint";
+import ToolBar from "./ToolBar/ToolBar";
 
 
 
@@ -10,9 +11,7 @@ export default function AsciiView () {
 
 	return (
 		<div className="max-w-5xl mx-auto">
-			<header className="text-center">
-				<h2></h2>
-			</header>
+			<ToolBar {...{pageNumber, setPageNumber, pointsPerPage, setPointsPerPage}} />
 
 			<main className="p-1">
 				<section className="grid gap-1 grid-cols-4 md:grid-cols-8">

@@ -1,4 +1,5 @@
 import React from "react";
+import { unicodeBlocks } from "../Unicode";
 import CodePoint from "./CodePoint/CodePoint";
 import ToolBar from "./ToolBar/ToolBar";
 
@@ -6,7 +7,7 @@ import ToolBar from "./ToolBar/ToolBar";
 
 export default function AsciiView () {
 	const [pageNumber, setPageNumber] = React.useState(0);
-	const [pointsPerPage, setPointsPerPage] = React.useState(128);
+	const [pointsPerPage, setPointsPerPage] = React.useState(32);
 	const codePoints = [...Array(pointsPerPage).keys()].map(k => (pageNumber*pointsPerPage)+k);
 
 	return (

@@ -5,7 +5,11 @@ import ToolBar from "./ToolBar/ToolBar";
 
 
 
-export default function AsciiView () {
+interface AsciiViewProps {
+	setCurrentCodePoint: React.Dispatch<React.SetStateAction<number>>
+}
+
+export default function AsciiView ({setCurrentCodePoint}: AsciiViewProps) {
 	const [pageNumber, setPageNumber] = React.useState(0);
 	const [pointsPerPage, setPointsPerPage] = React.useState(32);
 	const codePoints = [...Array(pointsPerPage).keys()].map(k => (pageNumber*pointsPerPage)+k);
@@ -16,7 +20,8 @@ export default function AsciiView () {
 
 			<main className="p-1">
 				<section className="grid gap-1 grid-cols-4 md:grid-cols-8">
-					{codePoints.map(codePoint => <CodePoint key={codePoint} {...{codePoint}} />)}
+					{codePoints.map(codePoint => <CodePoint key={codePoint} {...{codePoint}}
+						onClick={() => setCurrentCodePoint(codePoint)} />)}
 				</section>
 			</main>
 		</div>

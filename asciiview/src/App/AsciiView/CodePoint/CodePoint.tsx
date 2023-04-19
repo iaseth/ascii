@@ -2,14 +2,15 @@
 
 
 interface CodePointProps {
-	codePoint: number
+	codePoint: number,
+	onClick: () => void
 }
 
-export default function CodePoint ({codePoint}: CodePointProps) {
+export default function CodePoint ({codePoint, onClick}: CodePointProps) {
 	const ch = String.fromCharCode(codePoint);
 
 	return (
-		<div className="relative group py-4 bg-white text-center overflow-hidden select-none">
+		<div className="relative group py-4 bg-white text-center overflow-hidden select-none" onClick={onClick}>
 			<div className="absolute -top-8 -right-8 border-[12px] border-l-transparent border-b-transparent duration-300 group-hover:top-0 group-hover:right-0 border-blue-700"></div>
 
 			{/* left and bottom border */}

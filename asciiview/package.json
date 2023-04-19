@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "file-saver": "^2.0.5",
     "miniwindcss": "^0.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

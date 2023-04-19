@@ -1,3 +1,4 @@
+import Logo from "./Logo/Logo";
 
 
 
@@ -7,12 +8,21 @@ interface LogoMakerProps {
 }
 
 export default function LogoMaker ({currentCodePoint, closeLogoMaker}: LogoMakerProps) {
+	const ch = String.fromCharCode(currentCodePoint);
+
 	return (
-		<div className="min-h-screen bg-blue-500 px-4 py-4">
-			<header>
+		<div className="min-h-screen bg-slate-100 flex flex-col">
+			<header className="bg-slate-100 px-4 py-4">
 				<h4 onClick={closeLogoMaker}>Close</h4>
 			</header>
-			<h4>LogoMaker</h4>
+
+			<main className="grow bg-slate-200 flex">
+				<Logo {...{ch}} />
+			</main>
+
+			<footer className="bg-slate-100 px-4 py-4">
+				<h4>Footer</h4>
+			</footer>
 		</div>
 	);
 }

@@ -1,3 +1,4 @@
+import React from "react";
 import Logo from "./Logo/Logo";
 
 
@@ -10,6 +11,10 @@ interface LogoMakerProps {
 export default function LogoMaker ({currentCodePoint, closeLogoMaker}: LogoMakerProps) {
 	const ch = String.fromCharCode(currentCodePoint);
 
+	const [fontFamily, setFontFamily] = React.useState("Ubuntu");
+	const [fontSize, setFontSize] = React.useState(100);
+	const [fontWeight, setFontWeight] = React.useState(400);
+
 	return (
 		<div className="min-h-screen bg-slate-100 flex flex-col">
 			<header className="bg-slate-100 px-4 py-4">
@@ -17,7 +22,7 @@ export default function LogoMaker ({currentCodePoint, closeLogoMaker}: LogoMaker
 			</header>
 
 			<main className="grow bg-slate-200 flex">
-				<Logo {...{ch}} />
+				<Logo {...{ch, fontFamily, fontSize, fontWeight}} />
 			</main>
 
 			<footer className="bg-slate-100 px-4 py-4">

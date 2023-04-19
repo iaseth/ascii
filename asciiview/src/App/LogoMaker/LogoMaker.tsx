@@ -1,4 +1,5 @@
 import React from "react";
+import EditLayer from "./EditLayer/EditLayer";
 import Logo from "./Logo/Logo";
 
 
@@ -16,18 +17,12 @@ export default function LogoMaker ({currentCodePoint, closeLogoMaker}: LogoMaker
 	const [fontWeight, setFontWeight] = React.useState(400);
 
 	return (
-		<div className="min-h-screen bg-slate-100 flex flex-col">
-			<header className="bg-slate-100 px-4 py-4">
-				<h4 onClick={closeLogoMaker}>Close</h4>
-			</header>
+		<div className="relative min-h-screen bg-slate-100 flex flex-col">
+			<EditLayer {...{closeLogoMaker}} />
 
 			<main className="grow bg-slate-200 flex">
 				<Logo {...{ch, fontFamily, fontSize, fontWeight}} />
 			</main>
-
-			<footer className="bg-slate-100 px-4 py-4">
-				<h4>Footer</h4>
-			</footer>
 		</div>
 	);
 }

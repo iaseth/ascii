@@ -16,7 +16,7 @@ export default function Logo ({
 	};
 
 	return (
-		<div className="w-64 h-64 m-auto bg-blue-500 text-white overflow-hidden flex">
+		<div className="w-64 h-64 m-auto bg-blue-500 text-white overflow-hidden flex select-none">
 			<h2 className="m-auto" style={style}>{ch}</h2>
 		</div>
 	);

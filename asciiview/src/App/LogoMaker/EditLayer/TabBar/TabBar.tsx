@@ -7,16 +7,16 @@ import TabButton from "./TabButton/TabButton";
 interface TabBarProps {
 	tabs: TabData[],
 	currentTabTitle: string,
-	setCurrentTabTitle: React.Dispatch<React.SetStateAction<string>>
+	toggleTab: (title: string) => void
 }
 
-export default function TabBar ({tabs, currentTabTitle, setCurrentTabTitle}: TabBarProps) {
+export default function TabBar ({tabs, currentTabTitle, toggleTab}: TabBarProps) {
 	return (
 		<header>
-			<section className="flex ch:basis-0 ch:grow text-center bg-slate-200 space-x-0.5">
+			<section className="flex ch:basis-0 ch:grow text-center bg-slate-200 space-x-0.5 select-none">
 				{tabs.map((tab, k) => <TabButton tab={tab}
 					current={currentTabTitle === tab.title}
-					onClick={() => setCurrentTabTitle(tab.title)} />)}
+					onClick={() => toggleTab(tab.title)} />)}
 			</section>
 		</header>
 	);

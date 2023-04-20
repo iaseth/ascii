@@ -20,7 +20,7 @@ export default function LogoMaker ({currentCodePoint, closeLogoMaker}: LogoMaker
 		<div className="relative min-h-screen bg-slate-100 flex flex-col">
 			<EditLayer {...{closeLogoMaker}} />
 
-			<main className="grow bg-slate-200 flex">
+			<main className="grow bg-slate-300 flex">
 				<Logo {...{ch, fontFamily, fontSize, fontWeight}} />
 			</main>
 		</div>

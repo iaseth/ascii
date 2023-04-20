@@ -13,16 +13,18 @@ export interface TabData {
 }
 
 const topTabs: TabData[] = [
-	{title: "Color", icon: "home"},
-	{title: "Font", icon: "home"},
-	{title: "Move", icon: "home"},
-	{title: "Size", icon: "square"},
+	{title: "Color", icon: "palette"},
+	{title: "Font", icon: "format_size"},
+	{title: "Move", icon: "open_with"},
+	{title: "Rotate", icon: "rotate_left"},
+	{title: "Size", icon: "straighten"},
 ];
 
 const bottomTabs: TabData[] = [
-	{title: "Rotate", icon: "home"},
-	{title: "Foo", icon: "home"},
-	{title: "Export", icon: "home"},
+	{title: "Layers", icon: "layers"},
+	{title: "History", icon: "work_history"},
+	{title: "Vault", icon: "folder_special"},
+	{title: "Export", icon: "download"},
 	{title: "Options", icon: "settings"},
 ];
 
